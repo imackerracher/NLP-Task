@@ -13,6 +13,11 @@ class Tweet:
         self.smileys = smileys
         self.hashtags = hashtags
 
+    def __str__(self):
+        tweet_str = "Id: %s \nRaw: \"%s\"\nValence: %s\nUsers: %s\nEmoticons: %s\nSmileys: %s\nHashtags: %s" \
+                    % (self.id, self.raw, self.valence, self.users, self.emoticons, self.smileys, self.hashtags)
+        return tweet_str
+
 
 data_path = dirname(dirname(abspath(__file__))) + '/data'
 with open(data_path + '/en/2018-Valence-oc-En-train.txt', 'r') as f:
@@ -30,6 +35,7 @@ def extract(raw_tweet):
         raw = re.search(r'(?<=\d{5}).*?(?=\svalence)', raw_tweet).group()
         raw = re.sub(r'(.)\1{3,}', r'\1\1', raw)
         id = raw_tweet.split('-')[4]
+        #TODO valence as int number only
         valence = re.search(r'(?<=valence\s).*', raw_tweet).group()
         users = re.findall(r'(?<=@).*?(?=\s)', raw_tweet)
         emoticons = re.findall(u'[\U00010000-\U0010ffff]', raw_tweet)
@@ -47,5 +53,5 @@ for i in range(len(raw_tweets)):
         nt = Tweet(raw, id, valence, users, emoticons, smileys, hashtags)
         processed_tweets.append(nt)
     except:
-        print(i)
         continue
+
