@@ -41,10 +41,11 @@ def extract(raw_tweet):
 
 
 processed_tweets = []
-for i in raw_tweets:
+for i in range(len(raw_tweets)):
     try:
-        raw, id, valence, users, emoticons, smileys, hashtags = extract(i)
+        raw, id, valence, users, emoticons, smileys, hashtags = extract(raw_tweets[i])
         nt = Tweet(raw, id, valence, users, emoticons, smileys, hashtags)
         processed_tweets.append(nt)
     except:
+        print(i)
         continue

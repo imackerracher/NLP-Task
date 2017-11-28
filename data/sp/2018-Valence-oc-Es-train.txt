@@ -1,0 +1,1043 @@
+2018-ar-valence-train-1	@GD_MikyFC a ese paso no tendran NADA 😥	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-2	Porque me gustan los judíos porque 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-3	@RafaVidalCasas Yo lo reescribiría y pondría el hashtag #ironía en tu tweet porque realmente nadie lo está pillando ^^'	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-4	Que triste noticia... Mis oraciones estan con el, su familia y fans. RIP Chester Bennington  🙏🏼 😪	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-5	Un beso es un agradable recordatorio de que dos cabezas son mejores que una.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-6	Me kga la verga que no cuelguen la llamada en cuanto digo adiós, súper incómodo tener que esperar a que cuelguen, gastan pila.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-7	Me gusta ver cuando te hago sonreír Aunque sea unos segundos 😍😍	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-8	Lo pintan tan bonito desde Cataluña, que con los años nos iremos haciendo catalanes para dejar de ser españoles... #ironía #AhíLoDejo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-9	@Angelcuentatwit ¿¿?? pero desde cuándo en España las Fuerzas del Orden cargan contra ciudadanos libres?? #ironía on	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-10	si no me sigues pa q cotilleasssssss q pesadez	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-11	Esta boluda de la vidal me aparece en todos los anuncios de youtube 😠😠😠😠	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-12	#temblor acaba de temblar durísimo en la zona de la Florida Caracas 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-13	Estoy deseando escuchar al Rey ... si lleva 3 días preparando el discurso, seguro que va a ser sublime. #Ironía #MVTProtestasCat	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-14	peleo para terminar llorando	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-15	Cuando era chiquito queria ser Jimmy Neutron, y ahora voy a estudiar animacion.  ¿Dónde quedaron mis sueños? #nostalgia	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-16	@DHermoso08 Y ayudando con manos, corazón y buevitos, muchos buevitos 😆	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-17	@_Robrtoo JAJAJAJAJAJAJA Estas bien pendejo. 😂	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-18	@Laesebeefe Detesto comer fuera de hora.  😠	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-19	No entiendo porqué tengo que madrugar un festivo, no entieeendo.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-20	@fabiestefer Como que no 😠..uuufff Deoos mio mánda más pasiencia que se me está acabando con esta mujer	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-21	@Juliococo que crees que pase en los días venideros con todo esto del dichoso acuerdo? La desesperanza es agobiante	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-22	La cantidad de personas q fueron parte de mi vida y se fueron,pero q contenta estoy de las q tengo ahora,no pido nada más ❣	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-23	Hace un año atrás nos estábamos viendo por primera vez. Te amo infinito punto rojo @rdgojuan 😊	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-24	@CKalher_ - Le espera en la puerta, frunciendo el ceño porque no tiene muy buen aspecto.-	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-25	No se pa que anda de ofendido si tambien ta bien torcido	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-26	@Nescafe_ES Por favor nunca me toca nada más que enfermedades una alegría no vendría mal aunque fuera pequeña	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-27	@DimeMemo @Resentimiento voss con el palo selfie jajajajaja @c0tiii	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-28	Despertar a golpe de martillo es lo más bonito de este mundo, jeje #ironia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-29	@asioelato Pare usted el carro de la indignación que se pasa de parada ♥♥♥	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-30	Ama ver mis fotos 😂😂 no me enojo si me seguis amor ❤	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-31	the boy in the striped pajamas siempre me hara llorar	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-32	El mayor criminal del país diciéndole “delincuente” a nuestro vicepresidente constitucional!!!! #irónico #quemássepuedeesperardeesasbasura	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-33	@JaviGaudino_ Nadie me reconoce por ese simple hecho 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-34	Quizás antes de provocar linchamientos públicos podríais buscar algo más de fundamento que el "me lo dijo no se quién".	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-35	@AngeldebritoOk @laufer4 Y yo que pensaba dormir hasta tarde... Cancelo todos mis planes, ya me puse la alarma!! 💕💕	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-36	Me usaron de amuleto sin que yo sepa y central perdió 4-0 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-37	@itsjoelpimentel ¡Estoy tan emocionada, mañana voy al concierto!🎉🙃	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-38	Fuera de joda que me siento afortunada por tener a las personas que tengo	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-39	@TheActualAldo Pero qué tal entrándole a las Sabritas Flaming Hot. 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-40	@TubinoCarlos @KeikoFujimori Bah..solo vi la resentida de siempre!	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-41	Nunca me a gustado ser amargado	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-42	@Mc_Say No importa, puedo hacer una excepción 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-43	RT ESTUCRUDAVERDAD: Mi mayor problema es que no puedo estar enfadado. Siempre termino perdonando a las personas, incluso cuando no lo merec…	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-44	Los problema del comunismo se resuelven con capital #LaUnicaVerdad #Ironia #Estafa	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-45	Siempre me ha gustado, encima es divertida, ¿qué más pedir?	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-46	Aquí en casa para hacerla de Masterchef 😊 #AbreLaComidaEnlatada jaja	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-47	"Grandes cosas ha hecho el Señor con nosotros;  Estamos alegres." #Salmo 126:3 #ConfidenteEspiritual  #Alegría #Espiritualidad	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-48	Me voy a dormir sabiendo que salimos adelante despues de otra pelea, que hay amor y eso importa💪💪💖💖💖	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-49	@LauraSalgado75 Yo si decia porque se habian perdido los days 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-50	Lo mejor de las elecciones es que es una oportunidad más para compartir con el gran @jigaq #sarcasmo #wea	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-51	@armandozhoil Cierto... ¡Disfrútalo! 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-52	@lucianosantin01 No es gracioso	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-53	Aaaaah... Me encanta el olor a dióxido de nitrógeno por la mañana. #ironía #escenario1	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-54	Hoy ceno café, amargo y solitario café.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-55	@_itsdesconocida Lo se , eso es lo importante jajajaja 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-56	@MilagrosLeivaG @RPPNoticias Porqué negó vínculos con apristas a pesar de las fotos? Si nada debe o teme?	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-57	No Lo Saben Pero esa chica me está gustando demasiado... Aún sabiendo que jamás pasará algo... 😢	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-58	que horror que escriban REYNA	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-59	Como se atreve a venir a mi casa asi como asi 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-60	@JuanamartineezH ¿Será hoy mi día de suerte y me hackearas? #XtiianZechTrendy #JuanPabloJaramillo #CaeliTrendy #KCAMexico	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-61	Que graciosa la videollamada con mí papá ajajajajajajaja	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-62	Estoy tan emocionada con todo lo que tenga que ver con Disney y Marvel, que hasta ganas de brincar y gritar me dieron. 😍	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-63	@SoyQuemero_web una cancion dice HAY VIENE EL NEGRO RAMON BAILANDO ALEGRE EL BAYON	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-64	@AlfredoRamosM @CancilleriaCol Pobre víctima!!  No puede ser que injusticia tan atroz!! #sarcasmo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-65	@Anndy5000 Esta Andy XD 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-66	@JamesChords « sin frenos.  —Va...vamos, James. Córrete para mí —musita ella con la voz ahogada del cansancio.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-67	Arrepiéntete pescador 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-68	#MCCelebrity Si Baute se preocupa por Marina, puede respirar, está en buenas manos 😂😂😂 #ironía.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-69	sono tá espancando ppsó 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-70	maldita pesadilla de mierda	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-71	@SimbaRella40710 Jajaja nono ,solo que asi es mejor porque no se repiten 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-72	SIGO LLORANDO SANGRE POR EL SUICIDIO DE CHESTER!!!! WEY!!!!! NO PUEDO!!! ;;	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-73	@armando_bubu @CNNEE Ya decia yo. Era el sospechoso principal. Jajajaja	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-74	@naomi1755 ¿¡Hace un año!? Wow... ¡Me sigue sorprendiendo lo genial que lo has pintado, Naomi! ^^	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-75	@lesxlex Okay tu ganas, no eres amargada, claramente en esa foto se ve que eres suuuuuper buena onda.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-76	@RACCAR Claro, por eso Guilty Gear Xrd o Dragon Ball FighterZ son una caca... #Ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-77	@esbSPAIN @FizMen @CamiOmnis @DanWaggnerWTF @Machisstometro @WikiSexistas Solo debes insultar, típico maltratador	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-78	Es idea mía o tembló? Quizás estoy hueona y solo se me movió el piso a mi (? 😅	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-79	¿Les ha pasado que alguna vez estas buscando tu lápiz y al final lo tienes en tu mano? Algo así pasa con la felicidad.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-80	@Alb_315 Para mí? 😊	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-81	Que felicidad cuando están ahí apoyándote y abrazándote a pesar de todo💕	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-82	@LeSarcastico Esos "influencers" son un desmadre 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-83	@maryel_rc Como yo 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-84	El seguimiento que TVE está haciendo de lo que ocurre en Cataluña impresiona. Enhorabuena a esos jefes de contenidos.  #Ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-85	@williangordox Que pena...	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-86	Estoy entre "quiero ahorrar dinero"💵 y "solo se vive una vez".👀✌😉#Sarcástica🌺 #SabadoDeGanarSeguidores 🙌 #SiguemeYTeSigo👌	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-87	@Ana_Monjes14 Que persona agradable es usted	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-88	@rodaned contestaste con un insulto, por eso te pregunto si estas nervioso	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-89	Asumo mis consecuencia y admito mis errores, esos que excusé, por nerviosismo, por temores.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-90	@Daniel_ChefMX así que tómalo como algo psicológico, no de gordura 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-91	@Seba_Ballester Jajaj si fue divertido dispararle a ese negro 🙂😐	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-92	@cecimarti79 Siii va a estar tremendo 👌👌veremos que onda hoy, se sabe a que hora es?	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-93	Hablamos, sos copadisimo jajajajaja igual sos re estupido bue, mentira feo 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-94	Yo creo que Suga fue muy feliz cuando le dijeron que tenia que tirar el micrófono al final 😊	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-95	Como cuando le dices a tu mamá que la amas pero te deje en visto 😟	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-96	Cámbiaste mi vida le diste alegría	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-97	Afortunado de encontrarte. 💘	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-98	Por lo general no critico ese tipo de cosas, pero... Wtf la gente rumbeando hoy? Como si mañana fuese un día festivo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-99	Una clienta se estaba quejando del clima que sigue haciendo frio en primavera, pero ojo se enojo xq no le daba una bolsa con manija #Irónico	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-100	Lcdsm tengo sueño pero no me puedo dormir 😤	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-101	o sea que hay una extraña que todas las noches le da la recena a mi gato y que se ha ofendido porque le hemos dicho que no se la de.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-102	Ya los vans ahora ahorrar 110 para los suede😂 suerte Lorena😩	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-103	@gamarro10 @ExtraGuatemala Fíjate que son 5 por todos, es lamentable; casi toda la comunidad vive de esa manera.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-104	Que en la batalla del amor, sé que he peleado con honor, te lo di todo y lo perdí.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-105	Recuerdo cuando todo meco decía que después de 11:30 ya era hora horny 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-106	@AbbyBreeFitz « Casi sin pensarlo se separó de la chica y se alzó sobre sus pies de un salto. Miró con el ceño fruncido a la chica, que la »	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-107	Será q me pongo a estudiar ahora como tremenda fraca?	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-108	Me hacen mucho bien esos videos jajajaja 	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-109	@BTS_twt estoy re emocionada y orgullosa por el mixtape de hoseok, apoyenlo. Es un ángel.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-110	mi tristeza, mi locura, mi refugio	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-111	que les agarro asco, en ésta última, la minita rubia, de ojos claros, resentida porque se la cogió y se fue a buscar un tesoro +	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-112	¿Los árbitros mandando a la verga al América en un partido? Vaya, que novedad. #Sarcasmo ¿Ahora cuál será la excusa pendeja de la comisión?	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-113	Los vídeos de @_ELBRAYAN_ me hicieron la noche, lo amo. 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-114	@CaritoAM2 @Miguellcv_17 @LDSAlvaro Totalmente cierto! Hay mucho hincha pesimista por ahí, hay que seguir creyendo #YoCreoEnNacional 💚👋	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-115	@jareba1955 Gracias, buenas noches Jaime 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-116	@alejandromesias Justo eso quiero evitar... la tristeza!	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-117	@DanielEguiluz Jajaja nel, sino tu mamá me va a echar la culpa. A parte recuerda que yo estoy de vacaciones. 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-118	Lamentablemente a la familia no se la puede escoger.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-119	Todavía tengo amigos que me quieren como soy.  ¡Feliz día del amigo!	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-120	Esta muy buena esa frase 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-121	@marianoamenabar @sepuedevivir Yo menos, pero es divertido	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-122	@pistxls Hades bebé, sabes que te adoro, eres mi girl crush. Amo lo graciosa que eres y que siempre te preocupas por los demás. +	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-123	No alardees si un hombre comprometido está tras tuyo, eso le sucede a cualquiera; siéntete orgullosa cuando lo RECHACES a pesar de quererlo.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-124	Es chistoso cuando tienes una conversación corta con alguien y te alegra totalmente el día.	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-125	Michell me marcó para decirme que me tiene una sorpresa, que lleva 3 meses planeándola y me la dará en mi cumple ESO NO SE HACEE	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-126	Se multará con hasta 300.000 euros a los que presidan las mesas electorales el día 1-O. Viva la democracia... #ironía #votarem #referèndum	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-127	Es absurdo sobre todo porque la gente y me incluyo esta enfadada, nadie se hubiera enfadado si hubieran retrasado Baby Driver.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-128	#FrotaLaLamparaAS definitivo este tipo Suro es cero aporte y jura que es chistoso y hay que decirlo no lo es!	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-129	Es muy fácil sonreír  y filosofar cuando es otro el que esta echo mierda	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-130	no me tiro para atras no me importa quien sos no sean tan cobarde y boxea con este chabon 🎶😛	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-131	Lo mejor es confiar en que vas a pasar el examen con lo poco que se te grabo en clase 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-132	@Aransafelix Jajajaj ya deja de citar nuestros tweets 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-133	@Persefone95 antes de ver el que estoy viendo pase por dos primeros capitulos de dos doramas que iugh, hasta que vi ese que me gusto	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-134	Feliz día me dijo si habremos compartido baldes en lbbb" JAJAJAJAJAAJAAJ	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-135	"@intratablestv: @MicheliPablo No infeliz, 4 o 5 votos vas a tener descerebrado!"	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-136	@FernandoAgustin Lesionado el Tucu?...adiós mundial 👋#ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-137	Ahora si a dormir.. Mañana temprano viene mi amiga! 😀	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-138	Ambos ojos amplió por las acciones ejecutadas por el más alto, aunque no le molestó en lo absoluto; solo se estremeció por dicha acción. >	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-139	Estaba furioso de no tener zapatos; entonces encontré a un hombre que no tenía píes, y me sentí contento de mi mismo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-140	Siempre que llego a casa de noche mi perro me viene a saludar y se va corriendo a mi cama antes que llegue yo 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-141	@AnitaBotwin Porque claro, esta gente son una grandísima banda peligrosa que maneja artefactos explosivos chungos. #Ironía	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-142	@alexisperezf25 alegría inmensa y nostalgia porque no estas acá. te recordamos mucho	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-143	@ClaudiaLopez 😒 wow! Alguien debía descubrirlo #sarcasmo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-144	Sé que soy capaz de mucho, pero la poca confianza en mí me juega una mala pasada y me hace volar bajo...	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-145	Siempre que veo películas en netflix con alguien elijo una que ya vi o que parezca aburrida porque sé que no la voy a ver 🔥👀	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-146	Si esta bien que sean vacaciones PERO NO esta cool poner musica punchis punchis a todo volumen en miércoles para el deleite de tus vecinos✖️	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-147	@sergioaruizh :) gracias, aunque en este avatar si estoy muy producida y esa sonrisa jamás volvió.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-148	El enojo me puede durar ufff🙄	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-149	En el Estado jubilan a los trabajadores a los 65 años si o si, pero tenemos un Presidente que cumple 79 #irónico  #HBPPK	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-150	@JORGELAMRET @elgrajobajo Q se quema? Pues esos matorrales sin valor! #ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-151	@sophiareyest Asi son las Zorras ... 😂	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-152	Neta ya cállense a la verga todos 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-153	Ya se enojo el anon :( jajaja	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-154	Terminé bien el domingo 😌 😊 ahora quiero dormirmeeeeeeeeeeeee....	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-155	31 la mejor por lejos, te adoro un monton, nunca me faltes, responde algo lindo o borro el tw 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-156	A disfrutar este fin de semana porque el lunes se me acaba la dicha.😶	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-157	Por que el te grite por algo  no significa que te tengo mas que desagradable con migo 😣😒😒	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-158	que ironía que el café sea amargo y te endulce la vida	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-159	@sandraasol Amiguetaaaa, ¿qué significa VIEM? 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-160	Estaba animado a hacer algo k no es usual en la mua pero este dia se fue del qlo >:v	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-161	Y el Rey, el preparado, supongo q estará ideando una intervención estelar q nos dejará boquiabiertos a todos los españoles #2Oct #Ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-162	@DonNahueI Nooo tío que el malo era Guardiola #Ironia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-163	@LuisMiguelReyes @edwinrevolucion Acordate que ahora todo hay que hacerlo a la inversa...quizás por eso #Sarcasmo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-164	¡Feliz día a todos los que saben que son mis amigos! (Responde este tweet, si le doy fav eres uno de ellos :D)	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-165	@Rodrigo38740672 jajaja 28 decís? 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-166	Yo estaba en un momento muy alegre y y luego ver cosas sobre el tour de Harry, me ha deprimido. Auch.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-167	Dormi bue mal fse 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-168	Cuando me enojo lloro o tiro las cosas.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-169	No me canso de ver mi abuelo es un peligro	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-170	Mañana en Ayunas 😭😭  Chingue su madre 😄	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-171	No tengo wifi y no me descargue ninguna serie para ver, entonces me toca acostarme "temprano" y eso que mañana es festivo.  Odio todo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-172	@Cuevas6116 Yo me estoy riendo no soy amargado	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-173	La definición de #Trump sobre Puerto Rico: "Es una #isla rodeada de agua".Bueno este día aprendí algo.(#sarcástica) #Tampico #mty	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-174	¡Apple innovando como toda la vida! 😱  El simulador de XCode ya viene con forma de dispositivo real y con botones funcionales.  #Sarcasmo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-175	Feliiz Diia Amig@😊😊 Que lo pasen genial😊👌	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-176	Como echaba de menos despertarme a estas horas #Sarcasmo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-177	@PPTeamKaren @PPTeamRafa @PPTeamLesslie @Bryan_SKabeche @Eddy_SKabeche las 5 personas mas importantes en mi vida 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-178	Como que no se acabo el mundo? Yo ya le dije a mi crush que lo amo ahora se acaba por que se acaba 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-179	@xvzla2009 @noelleal No le quitemos sus méritos, no seamos mezquinos!! 😆	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-180	Creas una dependencia de la verga por que extrañas a cierta persona, sus labios, su sonrisa, la luz de su mirada, sus caricias, sus chistes.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-181	Compartimos el gusto por los gatos y el odio por el llanto de los niños.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-182	Nadie está en las calles armando escándalo, el puro desorden es el que está poniendo la guardia "civil" #ironico	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-183	@xBxnsheeAriel @LobaDxlDesierto @psychofhabit Pero ella es mala mami, muy muy mala * digo mirando a Corrida enfadada*	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-184	@micatorres213 Jajaja yo te amo a vos, te voy a dar fernet más seguido 😂	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-185	Me comí el cereal ya 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-186	Me desperte desp de una pesadilla q feo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-187	Cuando viva sola voy a pesar 300 kg	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-188	Hoy en "iria versus burocracia" el caso del banco. Donde siempre ocurren cosas maravillosas... #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-189	Otra vez se me viene esta frase tan graciosa que una vez compartio una amiga y me quedo sonando.....	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-190	Ahora sólo me da miedo que mi vecina @prettyfreckles me vea en ropa interior en lo que pongo las cortinas 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-191	Estoy tan ansiosa con el estreno de Game of Throne que ya me siento una Targaryen.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-192	Usted si que no vale la pena	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-193	@miguelmari5 @gaceta_es @blythe_club ser de izquierdas es ser resentido, envidioso y violento. No existe izquierdista buena persona.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-194	@DimeChampy JAJAJA, ahora si me hiciste reír 	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-195	@shawnefasto dijiste q un shipp q me incluía era horrible así q me hablaste d alguna manera	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-196	@enigma1187 Pues un concocido va a ir el sábado a la meta... 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-197	@Vale_Karumi ES QUE EL MUY HDP SÓLO PIENSA EN LOS JAPONESES AGFHSBFDHDGDGFGDF  Siempre pasa algo viendo debería dormirme temprano 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-198	Estás en el colectivo, solamente hay cinco tipos y todos te miran 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-199	@dou_meg Que alegre! En fotos no se logra ver mucho pero es en las esquina y creo q pronto morirán jaja	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-200	Mi sobrina sigue en cama. No ha comido en varias horas. Parece que la energía del cuerpo se le ha ido. La luz le molesta un poco. #tristeza	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-201	Si Cataluña tuviera un dictador como Maduro mañana se celebraría el referendo con toda normalidad y mas aun, con apoyo del gobierno.#Ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-202	Que rabia en serio cuando hacen las cosas por obligación y no porque les nace	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-203	@sebaaasalazar Jaja interesante ! Suena tentador jaja aprendería a nadar 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-204	@terko2013 @fffnav @rfeiBJ @Gregoriodalbon @Pontifex_es @CFKArgentina Vi imágenes de que tiran la leche en campo !!eso es terrible!!!	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-205	Nos encontramos por casualidad, tú tan radiante como siempre...💜🎶	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-206	Acá bien alegre con mi laboratorio de mate pa' mañana	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-207	En Twitter somos expertos en cardamomos excepto por el carda, solo momos. 😂 #MasterChefMx	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-208	Quien te ama de verdad cuida tus  sentimientos y su prioridad es hacerte feliz 24/7.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-209	No hay caso nunca llegó a terminar una peli de terror #Miedo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-210	Es ver eso y romper en llanto😟	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-211	DEJEN DE PONERSE EL NOMBRE DE SEBASTIÁN Y SU FOTO QUE NO ES NADA GRACIOSO AHORA #SebastianVillalobos #PDCs #SaakTrendy #KCAMexico	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-212	@JafetLuza colapso nervioso (culpa de dejar la medicación, sospecho) en medio de un examen. Una cosa humillante :(	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-213	@Auriazul1D Ejercicio y un poco de diversión 🤔	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-214	Cualquier madre o padre sabe que lo mejor para que un hijo haga lo que quieres es decirles justamente lo contrario... #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-215	¿y qué tiene la sonrisa más preciosa de todas?	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-216	El coño e su madre , tembló aquí en Caracas. En la castellana 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-217	No me convenció nadie, me convenció tu sonrisa 🎵	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-218	@lacayo_jassend Mi sentimientos idiota 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-219	Llevo 3 o 4 días conectándome poquísimo y veo que lo estáis pasando genial. #Susto	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-220	@Duarteeve01 Jajajaja pongamosle que si 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-221	@QuiqueRangel El carro "va en la calle" como quiera 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-222	@Daniel_ChefMX Eso depende mucho jajajaja 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-223	Pero vaya por Dios! No hay ningún partido que me represente en su totalidad. Es una pena, el pueblo español se lo pierde 😂😂 #ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-224	¿Juega desde ya?	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-225	@JapanEmb_Mexico Por acciones como estas aun queda esperanza en la humanidad 😊	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-226	Que bonito cuando acaricio ahí 😂	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-227	Lo bacán de ser más patito feo que divina es que jamás vas a encontrar a alguien haciéndote pasar por ti. PUNTO A MI FAVOR 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-228	@antenaxxx2 De los creadores de Bendecida y Afortunada llega blindada por mi novio feo pero narco. #Susto	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-229	Che estoy saliendo 3 findes seguidos 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-230	40 minutos soñando algo horrible, lpm tengo miedo de dormirme ahora 😢	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-231	Por todo me enojo, diosito ayúdame plis	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-232	Ya esta conmigo el vestido, una preocupación menos	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-233	Me gusta porque son mi segunda opción en todo momento que yo me enojo jajajaja	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-234	Un excelente #lunes y un gran cierre de #Septiembre para todos, con #Alegria y #Esperanza como dice el @Pontifex_es	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-235	Tu mamá en vez de dar a luz dio oscuridad, pinche morra.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-236	Me bajo mucho en la hermana del  raton, pero es que es igual de invivible que el. 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-237	@marcelofh60 Por qué 😢	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-238	YO CREO que el único corto de casita del horror con kodos y kang que vale la pena es cuando maggie resulta ser su hija.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-239	@clarymaffeis boluda en serio no sabias es como la primer cosa de la q te enterás cuando entras a la secundaria	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-240	@ConElMazoDando #TeLoDijeLaConstituyenteSiVa UN GUARDIA HERIDO DE GRAVEDAD EN LECHERIA Y NINGUN PARIODICO LO PUBLICA!! TERRORISMO!!	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-241	En la comida canalizo todo, sea felicidad, tristeza, aburrimiento, bajon, ansiedad y todo lo que exista. No tengo solucion.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-242	@71Marting @FernandoPoyo1 @SilMercado @GekkoLeeson @silvinamarq Gira la cabeza, como la del exorcista #MIEDO 😨	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-243	Que tu primer dia no sea en el cumbres esta muy triste.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-244	¡Feliz cumpleaños, mi alto guapo moreno inteligente! 😘	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-245	@ARIANACARET4 LOL lo siento pero eso es gracioso	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-246	@Dabeeche Ya veía donde le pegaba los besos a Gohan 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-247	@Corakoraa @TribunalCJ ira a la basura.una pena perder tiempo en ir a la  justicia burguesa	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-248	Terminé la segunda temporada de @MerliTV3 . Ansiosa espero la tercera ♡♡ @davidsolans96 @AlbertBaro3	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-249	@Fabricio_Diiaz Ay pobre víctima! Alguien que le dije pañuelitos para que se seque sus lágrimas 😂 como te encanta hacerte!	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-250	send diversión en mi tl	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-251	Después de quemar 3 iglesias, la Delegación del Gobierno y 5 Zaras...me voy a dormir! Que los catalanes hacemos cosas! #Hispanofobia #ironia	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-252	@SEONGCTRL ena ena hmm ena 😄	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-253	Cuando le gustas a una morra linda, femenina y divertida pero extrañas a una culera, medio vato y bien amargada. 💭	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-254	Voy a contener mi rabia contra los que bancan a miss bolivia	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-255	@MundoQuemero @wanchopeabila9 Una cancion decia  HAY VIENE EL NEGRO RAMON BAILANDO ALEGRE EL BAYON	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-256	Que pena pero a mi nadie tiene porque reclamarme las polas qué me tome!	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-257	Si saco la licencia el jueves, no puedo usar el carro el viernes porque tiene restricción, puta sal 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-258	Lihuel se hace el ofendido pero yo se que un poquitttttito me ama	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-259	@KRLS me ofrezco a imprimir papeletas para el referéndum ilegal si me las pagan bien, tengo impresora en casa. #ironia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-260	@AlfredoLecona @Danetth Y el Jetta quedó fuera de peligro?	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-261	#DeColombiaMeGusta la cultura, la alegría y las mujeres.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-262	Este año me tocará ir sola a la Convención de DB 😬 Vamo a conocer otakus 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-263	este momentazo para entrar en el #felizlunes 😀 #quetengasunbuendia  rt el ajedrez me enseñó que con un mal movimiento puedes perder a tu	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-264	Aqui convenciendo a mis amigas con novio que me lleven de violín al cine en el 3x2 de cinemarck 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-265	No es agradecimiento con Torres: semifinal en descenso directo y hoy perdió con el equipo mejor armado. Pero bueno, quizá quieren un CheChe.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-266	Es preferible estar loco y ser feliz que ser normal y amargado.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-267	Hirviendo de fiebre 😭😭😭	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-268	Tiziana preguntándome si tengo novio y no me creía encima 😆	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-269	@frostscientist Mire no me venga a amenazar >:'v	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-270	Como cuando te creas un twitter solo para apoyar a Sofi 😂 #KCAColombia #SofiaCastro	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-271	MB si no me equivoco una vez me confundi de snap y te mande terrible escracho mio jaja,me re copa q estes estudiando el prof suerte con eso💪	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-272	"Te voy a empezar a mandar más hot" que clda 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-273	Tengo las conversaciones mas interesantes con el. 😊	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-274	Eu si me dan otra semana de vacaciones no me enojo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-275	Me sigue haciendo preguntas sobre el color de mis pies y hasta no responder todo no me va a decir el motivo de su curiosidad 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-276	Un euro? Se perdió el respeto.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-277	desde q me entere q entregamos la 🗝️🔑 estoy muy desanimada...😟	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-278	Una casita en la lunaaaaa ,con otro de fortuna bebeeee	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-279	Me voy con esto mucho desconocimiento de muchos en política deben ser más objetivos en sus apreciaciones. La ligereza en la misma es mortal	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-280	Tengo un corazón terco, tonto, raro, impredecible, temeroso y muchos defectos más; pero que sabe amar como pocos aman	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-281	@AlfonsinaVin Gracias loca! Vení al brindis, estoy con algunos amiguitos. Me pintaron la calle rre nerviosa estaba jeje	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-282	Mi pacman significa pelea :v 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-283	mi gasista de burzaco en el 2015 ponia 55 estufas hoy 3 ... ya esta, es la medida de un laburante- este sistema es deplorable	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-284	Es solo enojo por no por comprenderte u.u	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-285	Es gracioso como siempre terminas con la que juras que jamás te fijarías porque está bien "qlera" 🤷🏻‍♀️	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-286	@crlsmrt Es Nicaragua pero también pasa por Cartago 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-287	@SolDeusebio Chistosa 🙄😑😑😑😑	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-288	Tengo tanto miedo a perderte, que prefiero morirme ahora para no perderte nunca. 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-289	son como Juan Carlos sacando una tirada de engaño tres para envenenar a alguien "toma este veneno DIGO... ESTA FANTA"	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-290	#Leo Hoy un posible cambio de suerte lo llevara a cumplir una meta q pensaba perdida, tómelo como una lección de perseverancia...	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-291	@Paloleichona @alfredodelmazo Te pasas jejeje 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-292	¡¡Feliz  día amigos hermanos que nos encontramos por este paso que se llama vida..¡¡	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-293	En España, se vive bien..!!. No nos podemos quejar. #leyMordaza #ironía	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-294	El mejor fin de semana 	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-295	Mi entretenimiento a esta hora es ver maria de todos los angeles je	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-296	Que indignación le tengo al chabón que me dijo prostituta por llevar puesto un cancán calado. La puta que te parió. Ni que fuera de red man.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-297	#GÉMINIS: ¿que por qué eres el mejor signo? porque sin ti, todo es más aburrido de lo normal, das esa chispa de locura a cualquier fiesta	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-298	Hay tanta gente en el estadio que pensé que estaba jugando el gato jajaja 😁😂 #sarcasmo	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-299	¡Dios! En serio odio a la ONU.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-300	Estoy hirviendo de la arrechera	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-301	Me enojo súper rapido,lpm🙄✋	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-302	@letrasencilla Debes colocar las respectivas alarmas 6:00 am, 6:30am y 6:59 am 😅	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-303	@TamezGaby Cada día te ves más hermosa y que hermosa sonrisa tienes saludos desde aquí cerca desde Cozumel bendiciones 😘	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-304	Estoy orgulloso de quererte romper la cabeza contra la pared	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-305	Me urge un aceite de almendras 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-306	@CastelarCibrian @ComicoNovato eso mero, provincia. Pero no te enojes, pareces perro de la calle rabioso. Anda di algo de mi avatar.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-307	@M_zucke Tuiter tiene la culpa 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-308	¡EN CHILE!  pena de muerte. a quiénes matan. ¿Porqué?  ¡MATAR! A UN ¡INOCENTE!	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-309	Mamilord se enojo.... 😝😩 jajajaja creo me falto ponerle el :v al final de la oración.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-310	Encima que le escribí 84 cosas me contesta 3 palabras y más forra que nose que, copado amiga 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-311	@milagrosmartell No puedo más enserio tenemosque hablar 😭	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-312	@IvanMarquezFARC Llena de satisfacción y orgullo a la Colombia de gente buena, no a la Colombia de hijos de puta asesinos como usted...	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-313	Hoy descubrí que hay una torta de kibi. Malditos fuereños. #sarcasmo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-314	@Miguelrs170 Ay enserio sii lo odiiiiiiio jajajajajaja, pero se ve bien nice 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-315	@mauqxeen 300€ environ 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-316	No puedo esperar a que sea mañana y ver el súper drama que habrá en mi salón 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-317	cabros, sólo paso a contarles que estoy mas entretenido de lo que jamás hubiese pensado en estar hoy. Fin del comunicado.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-318	¿Sabéis el pulpo de buscando a Dory? ¿Recordáid que le faltaba un tentáculo y que vivía totalmente amargado y resentido?	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-319	Ánimo ya mero es viernes, solo falta un día, no menos como cinco😂 #Copiado #Peña	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-320	Ojalá y Dios ponga su mano para tener calma de la sed de venganza que puede continuar.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-321	Encima se enojo vieron es más tonto	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-322	Amo que @Apple haya hecho una actualización para poner lento mi iphone. Lo amo de verdad. #Sarcasmo 😑	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-323	Caigo en cuenta que Rodrigo nació el mismo año que mi hermano 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-324	@MeyerAna Porqué esa cara de susto no pasa nada	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-325	y pensar que David ayudó a escribir el 2x25 es más emocionante, bc ha tenido continuación	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-326	@Danan_Zen Me lo dejaron de tarea en el catecismo... 😃	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-327	Me puse a ver vídeo desde que Hobi debutó, el orgullo y felicidad que es ver todo lo que ha logrado, y que pronto sacara su mixtape no puedo	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-328	To super cansada 😴	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-329	Yo sé que no me ha dado sueño porque estoy indignado.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-330	@mannolly Mi tia esta orgullosa de ti y de @manuelcastillol yo tambien la extraño hasta cuando me regañaba!	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-331	@Dabeeche Aun queda Piccolo, aun hay esperanza 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-332	@unacrisparra @almendra_78 Pues yo en su casa we 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-333	Debería de estar leyendo, no viendo mis memes de hace dos años :( hasta llore de la risa... toot toot dooo	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-334	No me puedo despertar tan chistosa porque le amargo el dia al pobre @richarddigo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-335	Que horror jamás sentirte suficiente	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-336	@juankfromchile En todo caso fue entretenida la conversación , buenas noches	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-337	Tengo re abandonado el tw	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-338	@electricjoshua JAJAJAJAJ CÁLLATE CÓMO VERGA NO TIENES AMIGOS SI ERES GENIAL	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-339	2 días para el lanzamiento de #miedo @CGaitanOficial qué ganas enormes de escucharla 👄💕	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-340	@MariaSharapova preciosa cómo siempre , pero tu rostro es de preocupación o cansancio ?😞	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-341	Hoy soy feliz con poco con mi tristeza me basta	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-342	Lo más incómodo andar resfriado y con los labios hechos perrrcha	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-343	@FlavioKisuc Por favor 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-344	Y empeze a estar orgulloso de mi desde el año pasado que aprendi a soltar todo aquello que ya no se quiera quedar.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-345	me pone re ansiosa estar en el otro tw por que están todos hablando del 21 ojalá estuviera mintiendo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-346	Ultima semana de mes..🙌💪👏 #BuenInicioDeSemana #MuchaTranquilidad #Felicidad	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-347	Juega arrancar el GYM de nuevo pero con este frío como que no da 😧❄	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-348	Cuantos amigos conoci y cuantos que perdi, pero sigo con los que mas queria ❤️ ¡Feliz dia a ellos, mi cable a tierra!	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-349	@1Ballesta1 nojoda que risa yo pq no te grabe ? ah verdad no tenía cel aún	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-350	ya tengo mucho sueño, adiós, y no sean negativos 💖 mañana es festivo, que rico jajaja #SebastianVillalobos #PDCs #SaakTrendy #KCAMexico	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-351	No quiero clases 🙁	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-352	@hermanntertsch La furia de Yavé cayó sobre ellos :)	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-353	No quiero ofender a nadie pero todo esto del ThisCrush y el CuriousCat está para que os regalen la oreja, porque os gusta ser protagonistas.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-354	No mames, qué fino. 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-355	"Quédate con la persona que te dé respuestas y no problemas, seguridad y no temor, confianza y no más dudas."	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-356	@ArenaZeroOk @Fairy_Tail_DD ¡Claro! Por nuestra parte aceptamos con mucho gusto 👌	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-357	Lo peor que todos los que hemos citado ese tuit hemos caído jajajajaja de mulas    	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-358	Quiero que esto solo sea una broma 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-359	Pensé que se me habría pasado el disgusto pero no	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-360	Estoy re orgulloso de tener los amigos que tengo y de que todos ellos sean mis amigos posta	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-361	¿Por qué Bad Bunny se vestirá tan mal? 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-362	Se me antoja una tostada de ceviche, nomás poe el puro berrinche.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-363	Llevarle comida a tu novio y verle esa carita de felicidad 🙈❤️	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-364	Pelotas de goma de héroes demócratas contra terroristas peligrosos con armas letales llamadas "urnas. #Ironía #RajoyDIMISION	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-365	Estaria necesitando a Santi para q me diga q hacer 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-366	Estoy tan orgullosa de byron 💚	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-367	Estoy llorando culpa de la alergia, quiero y a la vez no ir al médico	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-368	@MissJuliaOrwell @yosoyene @ociotextual @Stacy_Nguyen_ Creo que entraste por gusto. Sin albur.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-369	10-A veces escribo en mayúscula para demostrar que estoy emocionado.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-370	@EPN Estás a 1 minuto de llegar a Chiapas, Bueno a menos.. a 5.  Ay Peñitaaaaa 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-371	¡Feliz día a todos mis amigos y a los caretas que dicen serlos síganla chupando!	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-372	@jbryan_x Fui a verla el año pasado y tuvo su toque divertido pero esperaba más, ya veremos cómo va esta 😃	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-373	@_blxrryface Tengo que mirar bien la foto pero el 1mer collar si parece la virgen de Guadalupe 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-374	Como se dice "el tren atropello al perro" en frances? Le chu chx mato le gua gua...	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-375	Nube, regresame las estrellas yo quiero encontrar la más brillante de ellas,  sueña corazón💙😇🎶	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-376	@Paulina0338 Eh we a quien le escribes tanto mensaje se ve mucho risa xd	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-377	Que manera de cargarme de risa en ese baby shawer. 	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-378	Cosas que hago que al parecer no le molestan a nadie: -Respirar  -Comer -Existir 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-379	Nunca estuve tan enojado.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-380	Tb a cuando mi hermano le atropello a mi hermana el pie JAJJAJA	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-381	@milaaagros2 @BrisaBaier no te conviene, es una pesadilla esta piba jajajaja	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-382	Yo amo el grupo 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-383	Tengo una ansiedad xq mis niños hagan la comunión y a la vez será mi primera comunión como catequista 😇	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-384	@valentinabz Un aplauso para la gente guevona.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-385	@VickyFH_2891 Te acordas de esto? Es cuando recién empezaba todo el año pasado 😰 que horror	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-386	@SoyNovioDeTodas @MayraJiraaSCF Querer darte una sorpresa y que salga mal 😂	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-387	@itxaP Claro que no. Es igual que cuando no sacan o pixelan fotos de mafiosos, violadores... Encima querrás que sepamos quienes son! #Ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-388	@Daniel_ChefMX Y depende de que tamaño estén 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-389	"al principio me pareciste muy divertida y jamas me diste el avionazo o te fuiste, la culpa es mía, no vuelvo a hablarte"	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-390	A veces siento que la soledad es mas agradable!!	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-391	Trepate encima de este bicho y yo te lo meto hasta enloquecer	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-392	@_Laura24 Esta bien hableme que yo no soy orgulloso	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-393	Que la depresión no sea solamente un tema de interés cuando muera un famoso. Hablemos y escuchemos al resto, es necesario.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-394	La Copa Oro se juega todos los días de todos los años desde que existe el futbol	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-395	La Selección De #Panama Es Muy Conformista, Jugar Bien Y No Ganar Es Aplauso Y Victoria Para Nosotros? Hasta Cuando Con Eso? #CopaOro	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-396	Las cumbias son las q rifan. 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-397	@cordobatami15 @cande_meirinio Jajajaja atr 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-398	alv los old tweets me tienen bien inspirada 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-399	JAJAJAJAJAJAJAJA, admito que eso me dio risa, me lo imagine	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-400	No nos dejemos intimidar, todos salimos el domingo a las calles a ejercer nuestro derecho. #ConsultaPopular	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-401	@CaracolRadio Deberían destinarle esos recursos al @sitpbogota . #Ironía #Incentivanelrobo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-402	@bdelamaza Cansado si Alexis cambia o no se club	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-403	- Desde que la mujer aprendió a coger sin involucrar ningún sentimiento, el hombre aprendió a hacer berrinches y dramas sin ninguna razón.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-404	@Camila_Cabello @BrunoMars ESTOY MUY EMOCIONADO, ESPERO Y PUEDAS VENIR A MÉXICO	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-405	Oye @PcSegob hay momentos, de la nada, que mi corazoncito late rápid, no puedo respirar y siento que todo vibra 😭 Qué se hace? #mexico	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-406	¡Feliz cumpleaños, #Gordito @kossajah! Hay que irnos a festejar 🎂👍😁🎉🍻	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-407	@sergioulloa1 Que indignación 😠, con esa plata podrían sacar a cuantas familias de la pobreza	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-408	#AnimalesSueltos a Asis le parece un espanto lo de Lula por un dpto de mierda. PERONISMO EXPLICITO ✌️✌️✌️✌️	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-409	Yo me encargo del presente el futuro es asunto de Dios 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-410	La satisfacción de decir  "se lo dije" 👏🏻	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-411	@DulceHTPMS Aparte de que es horrible cuando me pasa porque literal mi humor es un asco, me enojo demasiado, ¿por qué soy así?	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-412	mamá si falle, perdoname, pero me gusto más la calle que ir a la escuela👀 @haroldazuara  #CD9 #Coders #HaroldAzuara #KCAMexico	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-413	@Armdocanchola JAJAJAJAJAJAJAJA no me refería a ese tipo de camino aún 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-414	Millones de razones para sonreír & darle gracias a dios por todos ✨	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-415	No puedo abrazar a mi mamá pq aparecen los perros y me ladran... Y yo que creía que exageraba con los celos 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-416	@elpaisuy Lamentable lo del pozo, ingenioso el festejo #ironia	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-417	@Lu_naiir @NatuliaNaty Amiga de mi hermano me encanta tu sonrisa❣	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-418	Es bonito eso de no dejarse llevar por lo emocional, aplausos. 💪	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-419	Me acorde del momento de ayer e instantáneamente sonreí, enganchada? No, ni ahí 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-420	Ya arranco el vientito ... que dia nos espera ... #miedo ! 🙈🙉	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-421	@AllDiscourages_ Por tu culpa me he acordado del crush y #tristeza	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-422	Odio ser tan sensible, me emociono muy rápido, me enojo muy rápido y me pongo mal el doble de rápido.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-423	@itsjoelpimentel dice tu horoscopo que si estas soltero cuidado con el alcohol lmao 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-424	Evadirse del Problema Interior Provocado por la Personalidad no Es más que Avocarse hasta el Dolor, el Estrés,el Agobio o el Malestar.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-425	Me acabo de comer mi último pedazo de pastel Red Velvet con una copa de vino #AdiosSemanaCumpleañera #HolaDetox 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-426	Datos @FPCIUDADANA y @GobiernodeChile dicen q delincuencia ha bajado, sin/emb sensación d inseguridad sigue. Gran trabajo d la prensa 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-427	@haroldazuara Tira el miedo cuando vayas al baño 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-428	4 Temporadas 4 temporadas para que se dieran el primer beso y yo emocionado como niño con una paleta del chavo. Algo va mal en mi vida.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-429	Iker tiene dormido todo el dia, nomas despierta a comer y con los ojos cerrados 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-430	Odio el dia del amigo porque sufro por la gente que no tiene mi suerte y tiene gente al lado falsa o que no tiene a nadie y se lo recuerdan	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-431	Los comentarios sobre España en Instagram son tan interesantes como leer La Razón #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-432	@Ignacho_LFC Ya está 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-433	Me hubiese encantado que nada de eso pasara 😐	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-434	@CarlosLoret Dios que horror capaz que cuando este el aeropuerto haya una catástrofe más grande y sean más victimas que las de hoy	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-435	@LindaStarVip2 @aneligarova65 Y yo a los 5000 iwal que tu!	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-436	Pero sigo siendo el reeeey. 🎶 De los pendejos. 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-437	Jajajaja están flashando colores 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-438	Con la suerte que tengo, muy probablemente voy a reencarnar en mi mismo!!! 😂 #Sarcásmo	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-439	la satisfacción de hablar solo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-440	Me siento muy orgullosa de lo que he logrado	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-441	Que ganas de tener mucha plata y tatuarme, comprarme ropa y muchas cocas y hamburguesas 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-442	@Abelaits  Tengo los huevos como los independentistas radikales: "Llenos de amor". #Ironía^2	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-443	pavor de gente retardada	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-444	@elangelGmendo @manuelquieto Por un momento pensé que habías ido a verlo cantar!! #Susto	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-445	Me da risa cuando nadie me cree que me sigue Justin Bieber yyyyyyy me mando dm 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-446	@jocelynmb_ Ya hubiera tumbado la puerta 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-447	En la línea borbónica, haciendo las cosas bien #ironía #deguatemalaaguatepeor #IIIRepublica #rajoydimision #felipeVI #elpacificador	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-448	Cuanto tiempo lleva haciéndose péndejo su presidente? Poquito 1 año, no menos, como 5... #triste #realidad #Mexico #FuerzaMexico #EPN	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-449	@Yessdavsw Hermosa y sexy como siempre!! Te quedan genial eso leggins, los llenas a reventar 😍😵	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-450	Se enojo ,me dejo mandándolo a la mierda sola y se durmió.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-451	aMARgado ayer tarde por nadar a la mañana,hoy en la mañana agujas en el brazo entraron a despertar las Olas  fluyen dentro del ohmbrito	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-452	Viste cuando estas ansioso para que salga él tema Mirame y se te hace eterno bueno así! @MaxiKilates @DakosMusic	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-453	@DeniseDresserG horror! Pueden provocar otras desgracias!	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-454	@Nemoapontefan @idolores_ @SAAK @nathcampost @nemoaponte si, es muy divertida me cae superar bien	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-455	@infobae Me cambió el día, que tristeza. #sarcasmo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-456	Adivinen quién se va #Cuzco el próximo mes 🙋 #Feliz ❤👌	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-457	Necesito personas que digan a todo "si" y no que salgan con "peros" 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-458	@anablabla "Ay no, yo también estoy triste por muchas cosas y no por eso tengo ganas de morirme mi alma"	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-459	@MatiasM0106 Estoy ofendida porque me clavaste el visto sabes? Asique anda con ellos	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-460	Déjame sobrepasar tus zonas de peligro hasta provocar tus gritos, y que olvides tu apellido	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-461	@ale_c_8 @machibebe @Sofi_Leon98 Gracias! 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-462	Como es que a la facu llego una hora después y para el teaser despierto mágicamente sin alarma y justo a tiempo?   #BAMA2017_EXO	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-463	@estevograndal @DDominguez_10 @carlosbertalo_ El palo  no va a funcionar subnormal😤	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-464	No me puedo dormir 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-465	Que felicidad parce 😭😭 #JuanPabloJaramillo #XtiianZechTrendy #KCAMexico	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-466	@counterrevolnst @rntannus @marcusv_prado @fcjffcjf @RBadeluk @alefrotabrasil O Nazismo era esquerda. #irônica	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-467	Sabemos que la vida es dura pero la amargura no es la solución ♪ #LVP	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-468	Menos mal que #Guardiola era el peor técnico que había pasado por el Bayern, decían. #sarcasmo #Guardiolamiamor #ChaoAncelotti	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-469	#GÉMINIS: a veces piensas como ejecutar una buena venganza contra los que han sido malos contigo. Tarde o temprano la llevarás a cabo...	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-470	@Naano_MB Jajajajajajaja estamos enfermos 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-471	MI HERMANA SE ACABA DE LEVANTAR Y HA EMPEZADO A HABLAR PERO NO HA DICHO NADA EN ESPAÑOL Y ESTABA DORMIDA 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-472	@noemtzi Me caga la lluvia en las noches, me da miedo bye.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-473	Ni sueño 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-474	Bno bno chicos ya realizando los preparativos para este fin de semana hacer el directo ojala no me coja el temible lag cod bo3 😂😂😅😅☺	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-475	Cuando digo “Extraño la escuela” me refiero a “extraño a mis amigos y la diversión (mi crush)” no la “Escuela”	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-476	@kinky_cuu Hoy fue mi día de suerte... 💖💖😍😍 🍑🍑 que buen perfil bb	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-477	Se acuerdan de esa época en twitter en que las polémicas eran del nivel de la #pipetón? Qué ordinarias las de ahora. 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-478	@gigif3 Fue gracioso me vio con cara de mierda y ahora que hago	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-479	@olvihormigos Pues nada, el CM a la calle. Más de uno sabría hacerlo mejor sin ofender a nadie	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-480	@ManuelBartual Cómo se puede dormir si supuestamente ves a un hombre mirando hacia tu balcón to quieto 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-481	Me mantuvo entretenida pero no tanto como quisiera... si lo suficiente para seguirla... siempre y cuando no hagan lo mismo del 1 ep.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-482	Soy la más emocionada porque ya puedo poner emojis a mis contactos 🎉	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-483	No sé cómo le haces para que no pueda durar enojada contigo más de 2 días	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-484	@publico_es Un respecto al representante de Dios en Cataluña #ironia #berlangavive	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-485	@DebRyanShow @AlexXxStrecci #Rayito  jajajajaj siempre estar vestido así será algo bastante gracioso	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-486	@magnitudCL No me di ni cuenta 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-487	@MarianaRodrigzC Jajajajajaja como cuando te exponen 😅	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-488	Hoy pinté un pantalón por primera vez. Espero no haberlo arruinado. 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-489	@Camila_Cabello @BrunoMars Estás muy emocionada?	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-490	Que mh wacho 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-491	Buena cuenta @PerdidosEncont , recién la descubrí y lo q hacen es genial. Dueños q encuentran a sus mascotas,y abandonados q encuentran casa	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-492	Ya cansan con sus intentos de insulto jajjaja besos	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-493	Amigos que están aún no estén  RT @Rhoderis: Hay gente que a pesar de todo, no te dejan de querer	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-494	Estoy segura de que en mi examen de hoy saqué 10 y estoy muy contenta, ya quiero hacer otro examen.🙈	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-495	7. Café oscuro. A la sombra parece negro, pero es café xD (Me doy cuenta de que repetí 5 dos veces, lel)	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-496	Me encanta que en los grupos manden audios de dos minutos, en serio, los oigo en cuanto me llegan #sarcasmo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-497	@SANTItoSANTI @mariobautista_ Merece lo mejor del mundo, es un ángel y siempre estaré orgullosa de apoyarlo :')❤	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-498	@omar_ADG Lo sé, soy brillante.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-499	Que hp tiradero de risa ese tío mío jajaja	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-500	Este tweet esta deprimido por muchos recuerdos:(	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-501	Que desasosiego es enfrentarse a cosas tan difíciles.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-502	Cuando escucho a Naranjito la ira se apodera de mí. Al final tendré que ignorarlo completamente. Mi salud es lo primero.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-503	@alexlozano779 Que malooooo 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-504	Gracias por informar temas de contingencia del país, preguntas claves para el proceso del país. #ironía #Tolerancia0	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-505	Jajajajajajajaja ta loco la minita 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-506	Un aplauso por esas personas que a pesar de estar jodidas, siempre buscan la manera de sacarte una sonrisa	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-507	@Valeriatulip para que causan escalofríos  mas de uno salió a ponerse un suéter 😂	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-508	@SolinkaArias Encantado de apoyarlos con @botaspuesta desde Chile 🇨🇱.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-509	Supongo que ahora mismo puede parecer que soy un amargado y sólo sé quejarme, pero creo que he vuelto a suspender el examen de hoy.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-510	Ansiosa para sábado 😍	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-511	Puede que le gusten a @Dabeeche 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-512	Terrible día pasé hoy 😊❤❤	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-513	*Frunce el ceño molesta* me marcharé cuando me tomé el café	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-514	Antena 3 haciendo un reportaje sobre el adoctrinamiento independentista en los colegios y sacan mi colegio. Ahora lo entiendo todo. #ironia	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-515	...espero que con esto haya bajado 10 kilos 😂 #AyAjá #SeValeSoñar	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-516	#Irónico cómo las enfermeras quirúrgicas son amor y amabilidad, mientras que las de piso son odio y amargura 🙄	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-517	@lilycaulfield curioso, precisamente ese recurso es invisible durante un episodio depresivo mayor	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-518	—Tengo miedo. —¿De qué? —De que te canses de mí. —¿Tú te cansas de respirar? —No. —Pues es lo mismo.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-519	Tragos de amargo liqor, que no me hasen olvidar Y me siento como un cobarde ,que asta me pongo a llorar	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-520	@PeliOviedo5 Jajajajajjajjajajajajajajajajajaja tremenda experiencia,	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-521	Tengo pocos followers así q  impacto sería bajo pero me pasaría el día retuiteando a @gerardotc #ingenio #ironía en estado puro #periodismo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-522	me siento super miserable ahorita porque soy una seria amargada de mierda pero tengo comida :)	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-523	Quiero café, pero el café de tus ojos, del claro, porque ese oscuro me da dolor de cabeza...	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-524	@LadyRosalya No es eso Otra ve entraste en depresión o preocupación y eso es feo >^<   Tu mereces amor y ternura ♥	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-525	@cflauramf @martiresas @KikoMatamoros No supervivientes es estar criticando;tomar el sol e insultar	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-526	Perfil:  — Bien webon. — Bien inocente. — Solamente juega juegos.  — Tiene actitudes de matanza.  — Seguramente me mate luego de esto¿	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-527	Jajajajajajajajaajjajajaajaj era peligrosa la tecnica	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-528	@javier_ruescas Deberías cantar junto a @verogv15 la canción de tu canal bienvenidos al canal de @javier_ruescas que divertido saludos	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-529	Ches mamadas que digo Mi cerebro procesa pendejadas a nivel industrial y cantidades inifinitas a cada segundo 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-530	Mis amigos lo son todo, ojalá nunca me falten. ¡Feliz día! Los amo ❤️	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-531	@AxelGarciaDc ya nada bby 😆	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-532	@SayaTsundere17 saya se me acabo el cafe amargo!!	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-533	Historias de un toledano enfurecido	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-534	Como dos Ángeles torturados por un implacable placer En el cristal azul del amanecer Sigamos tras el espejismo.  Baudelaire	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-535	@ydiehfuentes Ya porque saliste el fds 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-536	#Terror  Por un simple bostezo se tragó una araña que anidó tras su epiglotis y desde allí gobernó el resto de su vida. Murió en tres días.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-537	Papi si me venis a buscar no me enojo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-538	Todo lo bueno tiene algo malo, si este mes está bien no quiero saber el mes que viene  	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-539	@andremarinpuig @clubleonfc Es playera o periódico de anuncios , horrible pinche trapo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-540	El que esta segurisimo que el mercado ira hacia tal o tal dirección ya perdio. #Bitcoin	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-541	cuando me preguntan por qué tal persona es mi idol, simplemente le respondo porque me hace sonreír cuando estoy hecha mierda y es verdad lpm	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-542	Hoy tuve la fortuna de conversar con dos amigos @pavidonavido @CronistaDelMame en la presentación del libro"vaga ambición "@AntonioOrtugno	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-543	Cuando creo haber encontrado la calma. Vuelvo a enloquecer	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-544	@perrusky @Carlarendon @jvillalpandoc No dones perrus, neta ni una vez te hemos pedido eso 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-545	@sweetpear_18 rayos y te hacen ver bien... #irónico	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-546	EL PUEBLO DESPERTO , Y VA A CRISTALIZAR LA LIBERTAD DESTRUIDA POR TODOS AQUELLOS QUE LA JUSTICIA LOS ESPERA CON MUCHA ANSIEDAD T ANHELO	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-547	@Nallelf Que triste, pero los cambios son muy buenos. Hoy tengo en mi vida personas que me hacen más feliz y no me arrepiento de nada. 🤷🏻‍♀️	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-548	@vicky_rayada Nambre como crees? Sabes mucho más que los que se dicen periodistas👉 (Víctor Hdz)👈 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-549	@RobertGarciaP ustedes mismo son los que están matando a su propia gente eso si es lamentable lo que están haciendo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-550	Huele a manteca quemada... a no ya se enojo lacerda🤣🤣🤣🐽🐷	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-551	O la gente confía demasiado fácil en otra gente o yo soy súper desconfiada. Me tiro por la segunda	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-552	va mejor venganza contra quien rompio tu corazon, es demostrar que eres nerfectamente capaz de ser feliz sin el/ella.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-553	Subió un chico lindo al bondi y no pare de mirarlo hasta que se acercó más y baje la mirada. Así de cagona soy. Me defraude a mi misma	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-554	@IvanovickAG Yo también, super más joven que tú 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-555	@PauDybala_JR @douglascosta Tremenda dupla se viene 😍 @juniorarias92	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-556	#MeEmocionaQue Publiquen fotos antes, durante y después del ejercicio, y si hay video, mejor. #Sarcasmo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-557	@teamlibertywalk @forumpandlr Ah, vdd, so de ver a make ja fico cansada de imaginar	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-558	Informe del acto: se trata de quema de basura y escombro, sin peligro de propagación, se trabaja @PrimeraCoquimbo @Cuarta_Coquimbo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-559	@MARTUVERA2 Jajajajajaja desde ese lunes 😅	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-560	Nunca había celebrado el cumpleaños a un profesor con tanto entusiasmo y de corazón 🙊🙁🤔🤷🏻‍♀️	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-561	Le daria un like al que dibujara a mi oc con vestido (esto no lo vera nadie mas que nicole, aunque me debería asustar un poco...)	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-562	Sin ofender pero, representas todo lo que desprecio en el mundo.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-563	@AlexXxStrecci @Angela_ChefMX La van a eliminar 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-564	Al pedo pongo alarma si la apago y sigo durmiendo 💁	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-565	Cómo cuando Dross ya no pública nada bueno... Jajajajajaja 😂  Hasta @TeVeoGeek sale en uno de sus vídeos..!!  #Fama #Suscripciones 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-566	Que dicha como uno va descubriendo la clase de personas con las q se relaciona.. 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-567	Pues si sos puta ya pue pero no te enojes por que te digan lo que sos 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-568	Voy a dormir seis horas y luego clase de 8 de la mañana y no termino el día hasta que acabe el curso a las 22:00. Bieen #ironia	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-569	Estoy totalmente indignada con lo que me acaba de decir este chico	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-570	@ahorapodemos @Irene_Montero_ Está rabioso porque va medio bien la cosa	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-571	Ese momento de desesperación cuando no encuentro un emoji	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-572	@_itsdesconocida Pues si pero porque cambias de tema disimuladamente 😑 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-573	(...) que vos muchachita sigas alegre y dolorida  poniendo en tus ojos el alma  y tu mano en mi mano."  Mario Benedetti	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-574	Que buena onda verle sonreír a alguien cuando te saluda, tipo que te transmite la alegria.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-575	Una locura, baila orgulloso, hoy se presenta este corazón alegre y caprichoso	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-576	@richarddigo No creo yo eso jajajajaja si conmigo estas amargado	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-577	Mi amiga habla sola dormida, es más estamos teniendo una conversación...... 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-578	Mi bien ponderada @piCkOL, ¡feliz cumpleaños! Me tomo tres cervezas a tu salud. Abrazo grande pa' ti.	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-579	@jet1403 Clavillazo y su banda de ratas no tienen madre, y Lopez Obrador es un peligro para México? Por favor	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-580	He visto dos reacciones de hombres al comprar un anillo de compromiso: El emocionado y el indeciso  Trata de ser el primero	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-581	Pensando fríamente él wall no me gusto 😕	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-582	Papi pone la tacoma abajo para que yo pueda dormir con aire ☺️☺️ Tacoma 2017 te amo, gracias por traer receptáculo 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-583	no tienen una idea de lo orgullosa q estoy de guanlin	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-584	@KevenYHensy Yo que no soy su madre solo su fans estoy tan orgullosa de tener unos ídolos tan talentosos!!😍😍	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-585	Lo único que me esta saliendo bien este año es engordar 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-586	@fernanbecerril cuando voy yo solo no, cuando voy con los crios tengo mas cuidado. sobre todo desde que le atropello una bici a la cria	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-587	@_pgl99 @TatianaQuinones Pelea de parejas a otro ladito.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-588	@gabyvikz @arcadefire Ahhhhh gracias!	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-589	@oficialHASSAM @Avianca Unos pocos como paralizan el país #ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-590	El sistema nervioso de uno nunca será controlado.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-591	@MabelQuibrera ya me habia asustado amigaa eb	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-592	Me acordé de una foto, me puse a buscarla, vi todo el álbum y boom. Nostalgia.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-593	La risa de pelotudo no te la robo mostri👌😂😝	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-594	@LaTiadeltunco @oveflores la capital de Guate es idéntica a N capital SS en cuanto a orden, limpieza y seguridad ... 😒 #Sarcasmo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-595	Los débiles toman venganza, los fuertes perdonan y los inteligentes simplemente los ignoran.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-596	Increíble la cantidad de pelotudeces que hablamos con esta mina 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-597	Uy, sí. Como me encanta ésta situación y como hay mil trucos #ironía. No hay arreglo, se reconstruye solo.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-598	el amargo sabor a traición	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-599	De las derrotas salen los mejores versos. #Ironico	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-600	@rutty315 Muchas gracias Pequeña, que descanses... 😘 el sentimiento es Mutuo, mi venezolana Favorita 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-601	@Irene_Montero_ Es el dinero de todas y debe responder. Que indignación y q impotencia.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-602	Por la chucha ya empezaron las noches calurosas 😥	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-603	@BullDeMielda "Sabes que no me ha bajado la regla, eso me tiene preocupada" me dijo.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-604	cuando estaba en el colegio en el recreo me ponía con mis amigas a pedirle 100 pesos a todo el que pasará y terminabamos con cule merienda 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-605	Me enfurece la gente que desconoce la importancia de cada delegación en la Cd de México #ira 😠	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-606	Por 10 minutos pensé que mi perro se perdió o cayó por el balcón... Fueron los peores minutos de mi vida.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-607	amelia entró en pánico	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-608	@Mirandasv10 Ay ya me voy 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-609	Cuando un niño hace un berrinche porque querían un hermanito en vez de hermanita. Qué propones? Que aborte la mamá y lo intente otra vez?	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-610	Tomó coca cola y leo ganglios de la base 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-611	@Camila_Cabello @BrunoMars ESTOY ORGULLOSO DE Tİ ❤👏	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-612	@YoSoyAlita Amiga sería mega genial que puedas ir a ese lugar el 26!🙈🙊, esperemos que si se cumpla tu deseo!😉	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-613	Brillas en lo más alto amiguito. Feliz dia para vos. Te amo y extraño tanto! 👼💟	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-614	Ah, pues después de esto súper arreglado, no? #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-615	Terrible día y lo que falta...	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-616	No hay nada mas peligroso qué una mujer herida #LaNocturna	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-617	Qué tristeza mujer, pero ya lo esperaba de su parte.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-618	@CheFulana Sale un pati rabioso?  Ajaja	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-619	Me estresa saber que tengo que llevar pareja el 13 de Oct y que el 15 es la FDD 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-620	El subnormal diciendo que le hemos amenazado xdddddddddd	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-621	Mi novio subió una foto conmigo durmiendo a instahistory y recién la veo. La venganza sera terrible 😘😘😘	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-622	@juryokuerromr Gracioso sería que lo hayan reservado justo ahora, tengo magia.	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-623	¡FELIZ #DiaDeLaIndependencia COLOMBIA! 😎😎😎😇😇🙌🙌🙌🙌🙌🙌🙌 @eldiariodedross @GermanGarmendia @JolinboYT	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-624	Una noche ahogada en llanto, me juré a mi misma que no volvería a dejar que me tratarán como si no valiera nada.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-625	Que aburrido mi dia del amigo!!!	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-626	¿POR QUÉ LA ESCENA DE LILY DISFRAZADA DE BALLENA EN EL APARTAMENTO VACÍO ME HIZO LLORAR TANTO? AHHH	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-627	Última hora.Por los insultos a Piqué en el entrenamiento de España en Las Rozas,antiviolencia cierra el Pizjuán. #ironía #telita	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-628	15 días para inscribir materias y casi un mes para entrar de nuevo. Que está dicha tan hijueputa!	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-629	@FlorRatisconi Si la alegría es eso. :(	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-630	@JHopeMex 😍😍😍 Jin se coló 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-631	Cantar y escuchar nuevas voces hace que la vida sea más emocionante..	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-632	Le conte y se enojo y si no le cuento se enoja igual 👌😂😂	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-633	@lifeislali Para mi todos no! No creo que taaaan justo Nicolás la lleve a donde están todos los malos 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-634	@armymxvotes @BTS_twt En el momento es emocionante pero despues no puedo ni ir al baño sola #BTS #ARMY #KCAMexico	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-635	@SherKitt 😮 se baña en formol?  no, preséntamelos 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-636	@DanielaBlume ayer vi la fiesta Argentina en Gh, probaste el mate amargo bien argentino? Tienes que aprender a tomarlo para el desayuno😄	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-637	Amo tu sonrisa...	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-638	Viste cuando tenes un novio super celoso 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-639	@daniel_bvil @dulceguayaba_ Yo digo que si digas que quieres 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-640	@Maguizanini Ah sos graciosa sos	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-641	Una vez salía con un tipo súper guapo, buen pedo, divertido y cool y pues obviamente mi cerebro pendejo eligió a su amigo meh... 😢	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-642	Mañana festivo y yo, pues si, yo trabajo todo él día😪🙁	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-643	Tendría que pensar que me está pasando pero, es que estoy cansado de pensar.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-644	Que bronca loco 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-645	@DebRyanShow no sé si me debería de dar pena o alegría de que ha sido de puro #Rayito	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-646	Me mola la gente que responde #Ironia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-647	Hola, ansiedad. Pasa. Llegas temprano.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-648	@dw_espanol @coicaorg Cuando fueron los propios europeos quienes trataron de extinguir los indígenas del nuevo continente  #ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-649	@cova_21 Joer pones cara de Kondogbia en su presentación... #susto	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-650	@Norwichtty Buenas, señorita. Algo aburrida, usted?	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-651	@joserubensentis Que puede salir mal??? #Ironia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-652	@LivSyk Exacto. Te cuento por la tarde que ahorita estoy leyendo algo jajaja y no puedo concentrar mi enojo de la separación bien.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-653	@cokep Que eres terrible fome! 🙄 Y añejo poh!	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-654	Que bien me hace hablar con gente que siempre estuvo y está conmigo a pesar de todo 😌👏🏻	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-655	@randymeeks Ay que pena la gente desinformada... Díselo hombre, díselo... Díselo de mis partes!! XDD #Ironía #HumorTesticular	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-656	Al final de la oscuridad siempre se ve la luz	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-657	Y apuntan y disparan y diana. Y un camino que fue llano es ahora sangre, ira, incendio en el vientre, lluvia en la mirada, obstáculos.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-658	Así que lamentablemente el mundo del Rock está de luto #QEPD Chester Bennington	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-659	Aún me siento indignada	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-660	@eldiarioes Como puede este monaguillo insultar a Carmen ,pedorro no le llegas a las suelas d los zapatos?	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-661	@ScarletLagunes Autocorrector 🙁 pono pono pono pono💙🙊	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-662	@IraidaTravis Hace poco fui a un concierto y apareció Joe de sorpresa cantando ese tema y de ahí que la tengo pegada jaja 💕	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-663	@_HijaDeMiMadre Ahhh jajaj leí "yo quería dormir hoy" 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-664	Pido mil aplausos.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-665	No consigo recordar si era en #Barcelona donde tuvieron que poner cámaras para evitar violencia desproporcionada de los Mossos #Ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-666	Ansiosa y estresada estoy y no tengo tiempo para nada... pero bueno, esta ha sido mi pequeña reflexión de hoy😊 (tmb es xq me estoy leyendo +	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-667	Yo la engañaría con otras y ella lo sabría y no diría nada para poder seguir viviendo en mi casa gozando de mi fortuna.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-668	@CChavez1993 Esto lo he dicho toda mi vida, al fin alguien entiende 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-669	@Michael_M_Soto Entre esto y los comentarios lamentables de @CarlosAlvQ el PAC se perfila grande para estas elecciones #sarcasmo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-670	¿Existe algo peor que trabajar un festivo?	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-671	@FernandaZarat14 Esto si que está bien cabrón. 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-672	Lamentablemente soy muy sensible y cualquier tonteria me hace daño.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-673	Extraño sentir sus manitos en mi cara, su risa, TODO 😭👶💕	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-674	@A3Noticias Que bien se lo pasan en Cataluña!! El pais k yo quiero!!! #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-675	@AwadaNai la mala suerte del gato fichame la cara de help me pls	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-676	GRACIAS POR TANTO, PERDÓN POR TAN POCO 😭 #TeenWolfFinale	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-677	Quiero mirar la serie 😭	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-678	EL GATO EN SU CONDICION ; CREE QUE TOD@S SON IGUALES .. A EL / ELLA .. #SARCASMO #REAL	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-679	Ir a su casa y ponerle una goliza en el FIFA: me siento entretenido(a)	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-680	Tal vez el este super decepcionado, pero yo estoy super orgulloso de mi 😅. Pensé que nunca haría algo así.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-681	Que es hora de buscarme una novia y de enamorarme. 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-682	@omarfdosk8 @CaracolTV @DesafioCaracol Andrea fea mala aburrida gafa odiosa estupida sisañera chismosa etc etc etc	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-683	Felíz día a todos mis amigos, a los nuevos que me cayeron genial, a los que conozco hace mucho, y a los que alguna vez fueron mis amigos☺	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-684	Fue lindo ir juntas a nuestro primer toque de piñata, y fue chistoso que justo cuando grabaste josefina aparecí yo subida JAJAJA, te quiero	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-685	Mientras puedas mirar al cielo sin temor, sabrás que eres puro por dentro, y que, pase lo que pase, volverás a ser feliz.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-686	@Hadi7697873 @Me__Ayesha Ni to 😀	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-687	Para tristeza y felicidad, Ed Sheeran al rescate.🙃	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-688	@arcasmarc1 @PPopular @_virginiavargas Para qué hablar de derechos humanos, si con insultar basta no crees?	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-689	Barmby, ingresaste para darme una alegría dentro de tanta desgracia. @TimbersFC se que se recuperarán ⚽️	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-690	Yo sé que necesito hablar con un psicólogo (pienso demasiado en que no quiero vivir mas), pero no quiero ir, me da mucho miedo :(	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-691	Qué onda sonreír y que los cachetes te tapen la mitad del ojo?	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-692	Soy demasiado ansiosa🤦‍♀️	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-693	@0scarChavez @Reforma Que horror!!, las redes son chismógrafos #sarcasmo , así se han construído es su eje	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-694	Oliver habla español muy chistoso.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-695	Me robas una sonrisa... cuando de mis ojos sólo salen lágrimas!! Te Quiero!! 😘😘❤	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-696	Escuchar musica triste y terminar mas triste que la música	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-697	Es normal que me sienta tan emocionado🙈	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-698	es que archie colega sólo tienes músculos y judhead mira en serio ojalá te hubieran matado a ti y no a jason	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-699	@Ricardo10y9 Te gusta como juega ALIANZA?	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-700	Final emocionante hein?! @Vessoni @RicaPerrone #Ironia	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-701	@abi_quesada @AleVarela08 Tan violenta 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-702	Soy orgulloso, pero también sé pedir perdón a las personas que lo merecen.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-703	@elcapiperez ¡ay no digas que la lucha libre es mentira! El niño Dios va llorar y yo también 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-704	@UPYD @upyd_prensa @UPyDValencia  Antes de hablar de Miguel Ángel Blanco lávate la boca, @AlfonsoAznar, responde y  deja de insultar	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-705	@Daurreaq @OrangeSoxTeam Ponte a dieta y ready para la receptoría 😂	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-706	porque será que no le creo una mierda a nadie soy tan desconfiada que ni en mi sombra confío.  Una mierda ser así	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-707	PATRI ME HA ABANDONADO	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-708	Los borrachos cagandose a piñas y nosotros corriendo con Mica 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-709	Joda cule rabia esa monda mk.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-710	Tengo tremendas ganas de salir a caminar ahora pa sacarme un poco la decepción y el enojo y pensar bien q voy a hacer	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-711	@kikipau Y a mí me encantaría ser uno de ellos. 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-712	@PonyTravesti La gente de Twin Peaks está loca 😂 ¿Feliz? 😚😁	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-713	¡Sólo no me ignores! —otro pisotón. Ya está con el berrinche—.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-714	Que partido se me fue de las manos la concha de la lora 😠	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-715	Fui atacada por una tijerilla , habrá venganza. Buenas noches.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-716	8:20 puse la alarma. Gordo especifico daaa ponela a las 8 u 8:30. Incalmable	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-717	@laverdadweb Donde aquí en Nardia le voy a decir al leon! #Venezuela #Ironia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-718	@its_fedra La neta yo me veo igual de feo llorando sea la situacion que sea, así que por eso siempre pregunto JAJAJJAA PERDÓN	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-719	Esta vuelta a Capital tiene gustito a que el 5 vuelvo 😊	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-720	@prensaFANB @vladimirpadrino estos terrorista estan a esta hora en pleno apogeo caudare palavecino Estado Lara mano dura camarada.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-721	@guaperro1 Demasiado dulce 😅	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-722	Mi mejor amiga se caso, mis amig@s con sus pitos y sus conchas me dejan de lado y bueno yo acá con mi gato que le hago un mimo y se va 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-723	Con esos ojos, esa boca, la manera de caminar. Además, no es tu peo. Eso es lo que pienso, y en realidad hago tipo 😊	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-724	Menos mal que remata al suelo! 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-725	@miishelv20 Me hackearon! 😢	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-726	@RosarioAndreaa Ni que tuvieras tanta suerte	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-727	El optimismo es el hilo conductor hacia el éxito. Bruce Lee	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-728	Por que carajos estoy viendo una pelicula de terror solo 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-729	Siento que pasaron mi snap a algun grupo o algo pq me añadieron como 9 personas 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-730	Quiero que me apapachen 🙁	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-731	Cuando tembló lo que recuerdo es que  estaba en el metro, mis amigos y yo nos tomamos de los brazos 💜 si eso no es amistad no se que es 😢	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-732	Y fue en ese momento donde me Di cuenta que perdí lo único que me hacía sonreír día a día :(	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-733	@ricardoy337 Que fome. Pero nose porque me reí igual 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-734	Cuidado, mi madre ha comprado butifarra catalana. Voy a dejar de hablarle hasta que la queme. No a lo catalán. #ironía	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-735	@Sergio_616 Btw si es por BSO me quedo con la de Wonder Woman la verdad, toda una sorpresa.	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-736	Quien me manda a ser tan cabeza duraaaa	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-737	@Agus_Martinez58 Es lo que más me preocupa!! Y ahora, qué? 😦😦 (#ironia)	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-738	@JonaaJuarez Ya veo que estás re cagado de hambre porque te comiste la h jajajajajaja  	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-739	@miledelval La dicha se repitita?	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-740	lo mas gracioso es q es verdad, hace 2 años no me cagaba tanto de frio	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-741	Como que ya no me está gustando estar de aquí para allá. 😢	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-742	Aparte de tener buen cuerpo, ¿qué más ha hecho @JenSelter ? Porque no me explico tanto alborozo...	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-743	@Luucianx Yo encantada de recibirlo ahora	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-744	A pesar de tantos enojos, y dolores de cabeza hay alguien que esta ahí para hacerte reír al final del día 😍	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-745	@luciashan_poo Tómese una pastilla 😃	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-746	@95truman Ya me urge ir 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-747	Hoy anduve re Chinito esto de la resaca jaj 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-748	Policia abajo de mi casa con un tío #miedo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-749	Estuve todo el día dibujando y me duele mucho todo. Vale.  Estoy ansiosa y tenía que hacer algo.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-750	Ni en las encuestas pedorras con un emoji tengo suerte	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-751	@loveslywatson omg me paso lo mismo la otra vez, tremendo moretón en él culo me hice	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-752	¿Y si todos nos saltásemos las leyes que no nos gustan o convienen? ¿Que no? Puro fascismo... #ironía #yosítúno #legalidad #conlaPolicía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-753	Qp con la morra esta quien se cree ? 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-754	Y dale con el #miedo ! Que no! Que es cosa de #amor !!!! #Cristovive	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-755	La tradicion es algo que se ira perdiendo siemfre poco a po|o.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-756	Que hdp es😠	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-757	Valentinaa mañana vamos al mc ? Yo pago 😟	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-758	@manuelrosalesg Verdad ? Te creemos ? Tu huiste como lo q eres un traidor y cobarde, después negociaste tu salida con esas ratas del  Psuv	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-759	Verga, la quema de gas en pdvsa yagua está heavy, no tan heavy como las colas por el gas. #ironia	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-760	Y nunca me habias provocado tanta risa, como hoy xD xD	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-761	@juanrallo Es abominable que mantenga sus principios en vez de unirse a la masa para mantener la popularidad #ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-762	Si alguien quiere traer unas facturitas no me enojo... 😊	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-763	tuve un lindo domingo 	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-764	Hank, el pulpo de Buscando a Dory, le dió su tentáculo/pene a una pulpa que le abandonó. Por eso vive amargado y resentido.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-765	@ElmemoV Alabado sea el descuento jajajaj 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-766	@CFCorrecaminos Y ese parche tan horrendo enfrente de la playera que pedo?  #Gacho	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-767	WOW HAN VISTO A PIQUÉ VOTANDO. COMO SE LE OCURRE VOTAR. FUERA DE LA SELECCIÓN ESPAÑOLA. (#ironía)	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-768	Cuánta razón tiene mi hermana 😭 No todos están dispuestos...	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-769	@DragonMaidSucks genial, ahora me explico, esa era una imagen que era para apoyar tu ideología xd	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-770	@nicoo_ncl Hasta me parecieron más llevaderas las dos primeras, el reboot es lamentable.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-771	@haashoficial  por que ami  Me tiene que pasar esto 💔 Quiero gritar que ya basta 😿 Quiero abrazarlas pero nunca podré Dios mío 😷😭  #triste	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-772	@angiesmitha269 Yo másssss❤, por dicha ya pasó❤	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-773	Cómo me enferrrrman estás cosassss 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-774	@UnboxMeSpain una pena aunque yo no escuche su música,es simplemente trágico que muera alguien	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-775	@AndresF_Garcia Todos los dibujos tienen cachos, sospechoso @josesalaaas @Dederlealdair @I_amghoul @JhonCruz0525 @jhonatanperez__	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-776	#SexoYReligion la combinación de palabras que generan pánico en la sociedad.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-777	@UPAEP @JAVC10 @RectorUPAEP Gracias 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-778	@SonyMusicLatin @PrinceRoyce @FarrukoOfficial Yeeah, Congrats baby! 😱🎉🎉🙌🙌 La espera del video valió la pena! Hiciste un excelente trabajo! 😍	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-779	Pero a mi quien mierda me manda a elegir esta carrera de mierda... lease entre lineas (amo mi carrera y por eso me enojo) #Relatosalvaje	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-780	@edusadeci es correcto, pero es ilegal… en cualquier país 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-781	estoy viendo encantada por milesima vez y por milesima vez dije que estaba enamorada de patrick dempsey	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-782	Impresionante lo cansado q estoy, todo el día con los pibes y los quiero ver a ma noche peeeero estoy con un sueñote	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-783	Empezando bien Octubre ;) #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-784	#2MillonesDeMorrillos @heyitspriscila El sabado te vere hermosa,aqui en tijuana,estoy mega emocionada!!😍♥️	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-785	#Ironía, que mexicanos se solidaricen con el deseo de independencia catalán como si aquí fueramos plenamente "independientes".	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-786	Me levanté c la idea de que habían quedado milanesas hechas y SE LAS COMIERON, indignada	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-787	@Jona1795 Jajajaja cero, yo soy como la amiga que le hace ver el lado chistoso a su drama life 😂	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-788	@Nicotalleres98 Jajajaja Naa 😆	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-789	Fui a nacer dond no hay nada tras esa linea que separa el bien dl mal mi tierra se llama miseria y no conozco la palabra libertad. #Irónico	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-790	@anaismerrick Yo tengo aun pendiente la temporada anterior... a ver si me pongo 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-791	@esunen @sanchezcastejon Dónde está el insulto?	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-792	@dianaguzmang27 Le fallé a la comunidad memera, explicame andale 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-793	@trafficMcbo @alecita2611 Peor q nunca... 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-794	Temblores,huracanes,el popo activo y ahora Sofía Niño de Rivera cancela su show? #CuantosMasEPN #FuerzaMexico #Sarcasmo 😒#ParaSerHonestosYo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-795	@Hangulptbr @AnnaLovesJinnie Qu susto fia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-796	@Anxi_us Te llevaría, pero está a punto de llover y me da miedo el ambiente eléctrico y me dan paja los mosquitos	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-797	Me desconecte de todo, un buen escape. Por si andaban con el pendiente 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-798	Que lindo saber que hay gente que me quiere por como soy y a pesar de todo seguimos adelante con la amistad..	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-799	Leo que a muchos #mothermovie les pareció una película en extremo violenta y perturbadora, a mí no. Ya tengo dañada la sensibilidad mismo 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-800	Qué odio y desesperación estar tan lejos de Tito en este momento! Unas ganas de abrazarlo fuerte, mi sol😳.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-801	Estoy tan aburrida que me puse a acomodar los sobrecitos de azúcar y crema aaaaaa	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-802	@Anitaprr Lo que pasa es que el toque de bruja nadie nos lo quita 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-803	Lo bueno, respecto a mi Husky y luego de ver "todos los perritos se van al cielo" y "el propósito de un perro", guardo alegría y esperanza.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-804	Me tienen sin internet y sin tvporcable por culpa d unas obras. 9am y veo bobesponja por clantv #graciasmovistar por la rapidez #ironia	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-805	Su sonrisa es perfecta 	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-806	@softestangcl No me enojo, es una expresión :( me refería a molestarlo un poco. Gerardito jajaj qué lindos podo(?	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-807	@juancatab En serio!??	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-808	@JAlejandroBM JAJAAJAJ totalmente tu 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-809	Sí, soy un sangrón y un amargado jajajaja.: me siento solitario	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-810	Ni hablemos de las manipulaciones. Hasta el día de hoy sigue pretendiendo que yo sea su títere, y si no lo logra se enoja y hace berrinches.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-811	Yo soy aquel que camina orgulloso de sus cicatrices  Por que ellas me hacen saber que no  he vivido en vano...!	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-812	@EditorialFanes Nunca pensé que a los ladrones no les interesasen los libros #ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-813	"Aries, entre menos en serio te tomes el amor mejor te irá" 😂	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-814	Me alejé aunque no quería, pero te quería. #Ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-815	Estoy muy orgulloso, saben.	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-816	Que gil fui en no comprar las entradas para ir a ver a ciro 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-817	@__kleos Ñiñiñiñiñi estoy indignada con la gente de esa zona. Cada día les soporto menos..	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-818	Olvidé de del tal cabeza e mango, otro peine del gobierno...nuestra preocupación y objetivo es el gran evento nacional del #16deJulio	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-819	@clssypoetry Milena, tu personaje es hermosa, te queda muy bonita. Me gusta tu biografía y tu nombre. Pareces divertida y linda. —K	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-820	Asi cuando le dicen a la orquesta que estará el alcalde de Valencia y de Puerto Cabello..... ojoi ojoi ojoi! xD #Ironico	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-821	Hoy que estoy ansiosa a la gente le da con  joder🤦🏾‍♀️	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-822	#todasqueremosajohn por favor salvamos! #Annabelle #terror #monafea #miedito @ktta_f9	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-823	@Soy_BatiMono Sin cambios por el momento, todo va bien 	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-824	me siento muy frustrado conmigo mismo: me siento ansioso	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-825	Horas antes de un final mi cerebro no tiene mejor idea que tener un colapso nervioso por cosas que nada que ver 😩😩😩	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-826	@cquirarte Qué feo que venga la alegría se este prestando a esta farsa me dé secciona no pensé ver esto en tvz , eso solo en Televisa	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-827	Claramente soy muy ansiosa.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-828	y yo que solo iba a dormir un rato (? me acoste a las 7 y recien me levante 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-829	Felicidad extrema es estar super aburrida y encontrar una película de Harry potter😍	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-830	Que divertido mañana vamos a Duraaaaan🎉🎊	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-831	HARTA DE LEER PELOTUDESES COMO "feliz día a los falsos" etc etc, PARA DOLIDO, A NADIE LE INTERESA.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-832	@mariobautista_ Ya me imagino la carita de felicidad de estrellita al verte ❤️ eres una persona increíble nunca cambies ❤️	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-833	Por ser Familiar de un corrupto, ladrón y asesino del gobierno, tengo que jalarle bolas y defenderlo? Eso si es Tener dignidad! #sarcasmo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-834	EXPECTATIVA:  —Cuando hablemos le voy a decir esto, le preguntaré esto, hay tantas cosas por hablar  REALIDAD:  —¿Y qué más? —Bien  —Ah ya 😅	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-835	JAJAJAJAJAJAJAJJAJAJAA yo no te la puedo creerrrrr 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-836	"Aquí lo que importa eres tú" #ironía??	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-837	Triste es dar todo tu amor, toda tu alma y todo tu.ser con una sonrisk, y que se quede ahi, prendido en el aire	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-838	Ya se hizo de noche 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-839	Ya soy toda una prudente, muero de ganas de porner en un grupo "quien de todos aquí será el papá"!!!! Hahahaa #sarcastica	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-840	Juega vivo y piensa mal	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-841	AAYYYYYY QUE EMOCIÓN TENGOOOOO NO ME HABÍA SENTIDO TAN NERVIOSA Y FELIZ EN MI VIDA AAAAAAAA 😍😍😍😍	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-842	cansada de la gente	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-843	Hoy la mala es la policía por defender el orden y el estado de derecho, los señores que han violado la Constitución son santos...#Ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-844	Yo no hago las cosas para "callar bocas", yo las hago por satisfacción propia, locas.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-845	@mariobautista_ Eres una persona genial @mariobautista_  por eso todas tus bautisters te amos  Eres el mejor ídolo TE AMO !! <3	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-846	¡Feliz día a mis amigos!	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-847	Nada más triste que no tener a quien dedicarle tus goles.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-848	No sé de dónde sale estar salty porque Steve Carrell no ha ganado ningún Emmy por The Office pero estoy 100% indignada yo también.	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-849	Amo el personaje de nos vemos en disney de dario orsi jajajaja 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-850	@fc_cordon Me has pillado! Somos los caminantes blancos, vamos, lo peor! #Ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-851	@ObservadBinario Es preferible salir por Cúcuta. Por Maicao es demasiado peligroso	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-852	@vdevaldivia #ironía. Que hay gente que no entiende las cosas.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-853	Yo no se que le ha pasado... que la encuentro pensativa...	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-854	Cerrar el día con él al lado. Sólo eso pedía y eso tengo, gracias 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-855	Todos los días me despierto orgulloso de los amigxs que elegí 😀	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-856	「@Rodolphustty」 «momento entendió que quería batirse en duelo con ella. Frunció el ceño al ver sus gestos mirando al cielo apuntando con la»	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-857	Hoy te das cuenta quien si se acuerda de vos y quien no, que agradable de día	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-858	Increible como la gente se ha desbordado en ayudar para la recolecta que cite en el tweet pasado Wooooh asustada! #Sarcasmo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-859	@AfroParadise #ironía Uriel.  Pero los medios parecen ver más correcto lo que yo digo que lo que tu dices	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-860	Aqui viendo la guerra de memes -los guarda-  	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-861	aquela nostalgia gostosa escutando audioslave	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-862	No pongas en juego tu propia felicidad	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-863	Pero te encanta ver jaja #irónico 🙄🤔	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-864	Ya no sabia que decirle. Menos mal que metí la excusa que me voy a dormir 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-865	La dicha esta donde la eneuentras, muy rara vez donde la buscan. - J. Petit	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-866	@CaffeinatedDr Jajaja don Ale va a estar tan feliz que va a dejarme andar en Keds 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-867	No tengo wifi y quiero ver la peli de death note por netflix pero tengo miedo de quedarme sin credito 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-868	Estoy de suerte este otoño. ¡Se llevan los puntinos blancos sobre fondo negro!😍 Hoy añadí a mi colección un pantalón y un cinturón. #Feliz🙆	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-869	Ya comienza a darme hambre; esa es buena señal 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-870	@_anapastor_ Bonita España... 😑 #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-871	@pagina12 Entiendo la preocupación familiar pero deberían ser más cuidadosos porque mucha gente se moviliza tras estos pedidos	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-872	Recién @jlespert recordó que la última vez que vistió a ML fue en noviembre de 2001 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-873	Éste fin de semana la cita es con #Terror La Dama de Negro Colombia te espera   CASA ENSAMBLE   COMPRA YA #TuBoleta… …	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-874	@VjRodil @tugorditafav Esto me dio mucha risa JAJAJA	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-875	Está zona ya es sumamente inestable y peligrosa, las personas de #VenustianoCarranza Michoacan deben de ser evacuadas.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-876	No puedo dormir, emocionado como cabro chico porque mañana voy a Santiago 😂 Ay señor porque soy tan huaso 🙄	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-877	Sabes que no hay marcha atrás cuando comienzas a sonreír cada vez que hablas con esa persona.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-878	Te aprecio mucho, aunque me jodas hasta el punto del cansancio con el casamiento(?	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-879	Pensé que era una gilada lo de sentir que molestas, pero es lejos lo más horrible	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-880	El Rey diciendo a l@s catalanes lo qué deben ser x coj... Madre qué país. Ah que ha dicho algo de l@s catalanes herid@s x la poli... #ironía	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-881	@saamuelperez este negro es muy gracioso se ve cool	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-882	@KLibrado ¡Feliz día!	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-883	@nunurob Tía, he apuntado el número HOY para asistir de público. 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-884	@burgerqueenn_ @A3Noticias Solo entrada/salida? Y en el recreo y en el WC, en las pausas,al atar las zapatillas en clase de deporte. #Ironia	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-885	Vaya por dios, que hoy empezaban las fiestas de mi pueblo... ay que pena me da que no pueda ir #Ironia	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-886	Mejor Dime Que Me Extrañas! 🙁	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-887	Qué grata sorpresa ha sido Merida	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-888	Mañana empiezo la dieta porque quiero bajar un kilo, no menos, unos 5 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-889	@FlavioBuccino gorilaje desesperado. chúpenla! VIVA PERÓN, CARAJO! ✌️	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-890	estoy sintiendo puntadas en el ojo y lei q  era pq mi alma gemela esta llorando 😍😍	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-891	el caso de silvya likens es tan horrible lpm	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-892	Culiaoooooo perdió juventuuuuuud	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-893	*Nunca tuviste tu corazón con las iniciales tuyas y de un muchacho ? -Nonon, me mataba!  *En serio me decís?  -Si obvio!  Lo más grasa	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-894	Que cosa horrible estar resfriado y no sentirle el gusto a la comida	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-895	Feliz dia del amig... Ah no no tengo en la comunidad :"u	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-896	Un rey hablando de democracia...#ironía	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-897	Sabiendo esto me siento un poco basura igual fue 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-898	"En RD la gente cree que es por el escudo en la bandera que no entran los huracanes, más no en la misma provincia La Altagracia" #Ironía	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-899	@sivalenciac @bolivarmvb sólo haz ido sábado y no los otros días 😂 ve los otros días y después dices cuál es mejor	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-900	"Chongo" usa mi cuenta de Netflix y sólo ve cosas de narcotráfico 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-901	@mandilu9026 @cindysanr Si es Belinda no importa eh 😅	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-902	@mariianCaste @charlitosb HAHAHAHA qué vivo el patojo... ya era hora 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-903	Ya puse mis mejores canciones para esta etapa de enojo pasarla bien chingona	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-904	Tremendo asco me da cuando me lo nombran.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-905	¿Por que tanta curiosidad a la hora de saber quién es el afortunado?  Si en realidad eres Tú...	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-906	@SoyGroupie lo peor es que si quiere hacer algo lo va a hacer, es un tipo super peligroso y hoy quedó demostrado. ojalá se muera por favor	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-907	@Azulinca Recordarle que solo es una película así me calmaron a mi jaja :( 😅	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-908	En Disney estaba dando encantada pero dibujito, pongo ahora porque no hay nada para ver y está encantada pero de carne y hueso (? Ok	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-909	Dios me bendice todos los días si no aquien le debo mi gloria y fortuna 😇😇😇	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-910	Ubos pera ni ira 😭😭	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-911	@NatiEstropini JAJAJAJ por el estribillo 🙄🤦🏻‍♂️ Después te explico 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-912	3.1415. No pero sí me caes bien 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-913	@Chocu_ Chocu, tienes que poner el hashtag #ironía o #broma porque si no la gente se podría ofender y tomárselo de manera literal.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-914	Una sonrisa puede ocultar mil emociones	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-915	Ah borrarse del mapa😪 cansado de lo mismo, entero solo en esta vida✌ :(	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-916	Cuando estás enfadado con alguien, esa persona ocupa el 80% de tus pensamientos.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-917	Es muy democrático increpar, señalar e insultar a quien no piensa como tú. #3Oct #Ironía	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-918	Estoy re a full con todo de Ámbar. Y super nerviosa !!!!!! 😣😣	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-919	@FireofRam @KekoMDZ JUSTO TE HE VISTO POR LA TL Y TE IBA A INSULTAR	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-920	Me queme con aceite hirviendo, no se dan una idea de lo que arde. Quiero llorar.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-921	IGNORARLO. Solo quería escribir para desahogarme, enrealidad ni estaba deprimido ni nada xD es mas bien como una reflexion 🗿	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-922	Gracias buses x ser tan puntuales #ironia #mecagoento #siempretarde  🙃🙃🙃	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-923	Debería estar haciendo una tarea de adoctrinamiento izquierdista, pero me la paso por el forro y mejor estoy cantando alegremente =D	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-924	Sobre dosis de naruto para sonreír ante lo malo.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-925	@futpicante @Faitelson_ESPN la mesa se volvio un circo, tratar de justificar algo que no se debe esta mal y le da risa al Cheliz.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-926	Estoy tan ansiosa que mis uñas desaparecieron jaaaaj	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-927	Tienen cada salida a veces estos pendejos q me hacen cagar de risa	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-928	Quiero ser la parte divertida de tu libro.	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-929	—Feliz día de la amistad, mí estúpida. @H0LYEMMS	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-930	@diegsquiros La línea del irrespeto en este país sólo puede ser cruzada por los libres de pecado #sarcasmo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-931	@AndresParcerito Y yo de la limonada de limón 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-932	@shaiel_kosinski Sos re chistosa eh (extraño el rubio)	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-933	@jimeramirez0109 Si por dicha ❤	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-934	@m_gerardo12 No, yo quiero que el equipo mejore en la cancha. Ahora, si se pierde y el equipo juega mal, habría que hacer una evaluación.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-935	#sarcasmo ....Solo eso. ...	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-936	@_javiercardenas Con Otegui vitoreado como una ciudadano ejemplar por Barcelona. #sarcasmo	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-937	Cumplir un festivo no es nada cool amigos.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-938	ver esas transmisiones de crunchy es peor que pasar oyendo esa horrenda canción que se hizo popular en este hemisferio	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-939	@DebRyanShow #Rayito creo que eres la persona más famosa que hay en este mes , eres genial por eso tienes tantos seguidores xD	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-940	Así con razón se me cae tanto el pelo con tanto disgusto que me dan estos hijos de puta.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-941	Pues en su intento por insultarme me dijo "negro" y "marico" y me pregunto que cuál será el nivel de este ser al decirme eso como insulto	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-942	Le mandaría eso a Sofi pero no soy tan mala porque sé que de verdad le asusta las arañas 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-943	Que graciosa la gente que flashea ser raro y estar mas allá de todo y no se dan cuenta que son las personas mas comunes del universo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-944	La verdad que terrible noche, la pase genial con mis frazadas, la almohada y la cama	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-945	@KevenYHensy Yo se que sus madres tiene que estar muy orgullosa 💕💞💟😍	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-946	Acabo de ir rápido al súper y sorpresa me llevé al encontrarme con una sabrosa salsa macha de mi bello Veracruz ♥️☝🏾	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-947	@GolDNakama Probablemente los personajes de ese anime son de la raza de Cuellos de Serpiente. Al parecer se escaparon a otra serie 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-948	La desesperación escucha indiferencia en silencios que no son más que desamor  #MiercolesDeGanarSeguidores	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-949	me acaban de ofrecer un vaso de orina, mi suerte está cambiando  #CD9 #Coders #AlonsoVillalpandoTrendy #KCAMexico	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-950	really paula chaves es una de las mejores modelos de arg con esa walk? lamentable	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-951	1..2..3..4..5..6..7..8..9..10 Una vez alguien me dijo que en mis momentos de enojo cuente hasta 10 o mas!💪😁	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-952	@gonzalezdaniok Jajajajajaja hdp me la aplicaste  pequeños detalles lo de la cortadura fallas técnicas 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-953	@MundoQuemero habia una cancion que decia  HAY VIENE EL NEGRO RAMON BAILANDO ALEGRE EL BAYON	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-954	@OnlyCes_ @Blazek___ la vieja de rafis es genial	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-955	No supero mas lo del sábado en él auto de Fer cuando nos agarro la policía 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-956	ESTÁN LLOVIEEEENDO ESTRELLAS EN NUESTRA HABITACIÓNNN MOJAN DE LLANTO, MI CORAZÓNNN	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-957	Cansada de fracasar😂	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-958	De la flor de Zidane, a la flor de Valverde. Las vueltas del fútbol. #Ironía	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-959	q bien va sanidad en Andalucía ❤❤❤❤❤ #ironico	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-960	estoy a nada de ponerme a llorar en el pasillo de desodorantes y shampoo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-961	@LesleyNieto y mucho pinchi chamaca 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-962	Ninguna de mis amigas me escucha cuando les hablo. 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-963	Que ponga la foto que quiera con quien quiera. Ya no me importa 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-964	@KidGuilty @cathy Todos pedíamos que volviera hasta un HT tenía, volvió,hizo sus descargos y fue peor  #DonPicoDeOro 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-965	@ESTEFANIAAMARIL @ccemx @LosImpacientes 😱 ¡Padrísimo! La vamos a pasar de lo mejor ya verás ☺️🙈 ¡Feliz cumple adelantado! 😘	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-966	@maneSC290_ Yo lo hago por gusto homs	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-967	@ephn25 🎶Y llevarte a la cima del cielo, donde existe un silencio total🎶  😭😭😭😭😭😭😭😭 Adolescencia destruida. 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-968	Cada dia mas me enamoro eres mi fortuna y mi orooooo	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-969	@RaulOlive @MexicoFER @jrisco Y quiza te critiqué, por tu obesidad mórbida y tu pésimo gusto. Ups #sarcasmo	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-970	@girlstetona Con gusto❣💦💦	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-971	No te dejes llevar por el orgullo, escribele pa q te dejen en visto JAJAJAJJAJA 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-972	@DebRyanShow @TecnopolisNC #RutaPais2032 Mucha suerte🙏❤	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-973	@luciamcias La vida esta enojada conmigo, yo soy feliz	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-974	verás tú el cuadro esta noche tengo 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-975	Y si ya no me quiere? 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-976	Ayer me baje dos juegos de terror y me da cosa jugarlos🙄	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-977	No superó más la cara de la enana cuando perdió el celular y después fue a buscarlo y lo encontró	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-978	Check list: Boleta de @BrunoMars: ✅😍 Viaje de playa: ✅😍💜 #Felicidad	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-979	@StoesselMyJoy FELIZ DÍAS MI AMORR	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-980	@DlealH Pobre mae Diana 	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-981	@fabianmendozav Y juega el @ABucaramanga .....	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-982	[27/8 23:04] wawitaaa: Vez q no t da boluda [27/8 23:04] wawitaaa: Mañana voy a hablar seriamente con vos  	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-983	Me hace falta un palito pa andar al cien 💯 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-984	@a_pascual_m @ierrejon No tienes ni puta idea de lo que dices, el insulto por joder y porque se os acaba el chollo.	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-985	Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo,ni deis lugar al diablo. (Efesios 4-26,27) Hermanos Cristo Les Ama y Perdona	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-986	Tengo un hijo y apoyo que no nos dejen entrar a todos lados con ese gritón implacable.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-987	Anoche me enamore de un pibe por sus ojos, pero lo vi una sola ves estoy llorando VUELVE QUE SIN TI LA VIDA SE ME VAAAAAA OOOO VUELVEEE	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-988	Sonreír a pesar de todas las cosas que pasen es de valientes	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-989	Parece que las peticiones de los pilotos de @Avianca siguen por las nubes... #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-990	#CAPRICORNIO se puede irritar por cualquier cosa, incluso por tonterías, así que cuidado con QUÉ tonterías dices o haces.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-991	Yo solo quiero que sea invierno para que se empareje el color de mis brazos con el resto de mi cuerpo 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-992	Soy hambre 24/7 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-993	@CatalinaSpring Jajajajajaja que rabia	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-994	Con los amigos tomando algo tranqui👍: me siento genial	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-995	@Narren_schiff Ahorita me mudo #sarcasmo	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-996	-provocar. Tengo que comentar algo al respecto???	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-997	@MakysVila En todos lados 	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-998	@IsaCamargoSoto Siiiiiiii verdad mañana es festivo, me confundí	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-999	@EquipoCFK No hacía falta tomarlo tan en serio al grandote pavo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1000	30 grados a las 21 de la noche. 2 de Octubre. #paraísoSevillano #ironía	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1001	@darth_cesar Es q en ese q te menciono sale personificado hasta con corona de espina po jajajaja terrible de flaco puro hueso	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-1002	Uh me re emocione con esa canción 	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-1003	Soy muy afortunada de tener a mi familia hobbit	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-1004	@CONCHETUNlALL En serio? Ooooh wn que bacán 😘😘 deberías ser mi ibf ya que la dafne es más lenta pa responder que la chucha	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-1005	brayand y yo no nos podemos  juntar porque la descargamos  con todo el mundo 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1006	@CarlosDonoso @AlfredoVallejos @flor_azul_64 Yo estoy pobre :(. 	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-1007	Andaría necesitando masajes 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1008	@kimchimandus Yo siempre estoy perdida! Me salvaste!! Alarma puesta 👍👍👍	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-1009	chicas no saben lo cuanto q estoy ansiosa para sábado es algo q no puedo explicar	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-1010	#felizdiadelamigo Para todos los que me siguen y en especial a @ADRielsk8M  que la pases genial te mando un abrazo	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-1011	#Maracaibo me huele a peligro. Alguien sabe porque los comando de la GNB están vacíos? Y muchos saqueados.	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1012	@EsttebanGalvan Si vdd? 🙁 quien sabe porqué	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1013	Le tomo mucha importancia a las bandas que escuchó, porque sus canciones me han ayudado a salir en momentos de tristeza, me han motivado.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1014	@aripiaa 🙁 No sé si sea por la situación del sismo o por otra cosa. Pero si necesitas que alguien te escuche, aquí estoy. Mucha fuerza. 🙌	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1015	Cuando estes cansada de su inmadurez, aquí te esperaré...	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-1016	Si me hablan no me enojo eh	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1017	#MiSolucionParaElInsomnio la verdad tengo unas pastillas del terror ZAVIANA FS 12,5mg hipnótico va directamente sistema nervioso central 💤💤💤	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1018	Timi y si gringi di cimpi😂 Han cansado hoy	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1019	Y fui tan afortunada de tener la dicha de tener un súper abuelito como tú.	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-1020	Inteligente es quien solo cree la mitad de lo que oye. Brillante es aquel que sabe qué mitad creer.	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1021	Amar la soledad hasta el fin del mundo 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1022	Sabias que tu mente cuando sueñas recrea tus anhelos mas profundos 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1023	@_rodriggl98 Giles nomas jajajaj que onda vos, aburrido alla(?	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-1024	@FuriaRojaTV Torres es muy terco perdió en el estadio donde le gritan alos dt burro	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1025	@KidGuilty @cathy El que dejó embarazada a su mina y tenía crías en todo Chile 	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1026	—alzó ambas cejas ante su mención, mas las volvió a fruncir poco después. Sus mejillas se había ruborizado un poco más, y ahora sí que ›	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1027	@NattyMore @Mum1112 Dije las (coshas) plural,mal pensadas no me gustan las ostras 😡	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-1028	#ANCentral la medida de coerción procesal penal de prisión preventiva sera infundado, pues ni existe peligro procesal	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1029	A @joseolivaresm le deben de estar pagando un billete por dejar en un calabozo a su hermano (hashtag #sarcasmo, pa los tapaos).	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-1030	@FranciscoOyar19 Yo no pero ya no mas twitter, nos leemos 	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1031	@doctorconejo ¿ Qué?   ¿ A cualquiera le pasa no?  *escondiendo la tercer crema para peinar* 😅	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-1032	Es bien bonito que sea domingo y tenga calzones limpios 💚💛 siempre se me olvida lavar 😂	valence	2: se infiere un estado emocional moderadamente positivo
+2018-ar-valence-train-1033	es una persona PELIGROSA y con mucho poder encima	valence	-3: se infiere un estado emocional muy negativo
+2018-ar-valence-train-1034	@Parejasanluis2 Igualmente 😊 ya quedo llenita ella durmiendo. Jajajaja. Un fuerte abrazo y saludos a la morocha 😈.	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-1035	Lo quise correr a Matias y me sangró la boca, tan agradable mi novio	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1036	@aonrec Unos cuantos cortes nada mas en esa linea de tiempo mas capas de ajuste unas 2 nada mas #Sarcasmo	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1037	@BenjaVerdessi Es mi primera vez, me siento orgullosa :)	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-1038	una de las cosas que más valoro en mi vida son mis amigos, que felicidad tenerlos a todos💜	valence	3: se infiere un estado emocional muy positivo
+2018-ar-valence-train-1039	Mi madre me ha desertado enfadada porque anoche se me olvido recoger la cocina. El otro dia se olvido de mi y yo no la desperte a las 9	valence	-2: se infiere un estado emocional moderadamente negativo
+2018-ar-valence-train-1040	@sopitas Ahora sabemos porque tan sonriente en las fotos, seguramente decía pobres pendejos los que creen esto	valence	-1: se infiere un estado emocional ligeramente negativo
+2018-ar-valence-train-1041	@elrubiusft5sos @HouseofCards07 Chingos de dinero y de suerte que tengo ;-;	valence	0: se infiere un estado emocional neutral or mixto
+2018-ar-valence-train-1042	@sigfrid Sería mucho más genial si Telltale dejará de hacer novelas y empezara hacer videojuegos!	valence	1: se infiere un estado emocional ligeramente positivo
+2018-ar-valence-train-1043	@OscarAlessandr0 @GolDNakama Estoy al día con el manga y te dire una cosa, esa chica no es el waifu ideal para Tatara 	valence	0: se infiere un estado emocional neutral or mixto
