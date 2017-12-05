@@ -1,16 +1,19 @@
 import re
 from os.path import dirname, abspath
 import nltk
-from .split_hashtags import HashTagSplitter
+from split_hashtags import HashTagSplitter
 from nltk.corpus import brown
 import pickle
+import os
+
 
 class Tweet:
-    def __init__(self, raw, id, valence, users, emoticons, smileys, hashtags):
+    def __init__(self, raw, id, valence, users, pos_tags, emoticons, smileys, hashtags):
         self.raw = raw
         self.id = id
         self.valence = valence
         self.users = users
+        self.pos_tags = pos_tags
         self.emoticons = emoticons
         self.smileys = smileys
         self.hashtags = hashtags
@@ -47,11 +50,13 @@ def extract(raw_tweet):
         stopwords = nltk.corpus.stopwords.words('english')
         raw_tweet = ' '.join([w.lower() for w in raw_tweet.split() if w not in stopwords])
         raw = re.search(r'(?<=\d{5}).*?(?=\svalence)', raw_tweet).group()
+        # elongated words
         raw = re.sub(r'(.)\1{3,}', r'\1\1', raw)
         id = raw_tweet.split('-')[4]
-        # TODO valence as int number only
         valence = re.search(r'(?<=valence\s).*', raw_tweet).group()[0]
         users = re.findall(r'(?<=@).*?(?=\s)', raw_tweet)
+        tokens = nltk.pos_tag([token.lower() for token in re.findall(r'[A-Za-z]+', raw)])
+        pos_tags = [tup[1] for tup in tokens]
         emoticons = re.findall(u'[\U00010000-\U0010ffff]', raw_tweet)
         smileys = re.findall(r'[(),\.\'$|8´]*[:;]+[(),\.\'$|8´]+', raw_tweet)
         hashtags = re.findall(r'(?<=#).*?(?=\s)', raw_tweet)
@@ -60,7 +65,7 @@ def extract(raw_tweet):
     except Exception as e:
         print(e)
         return
-    return raw, id, valence, users, emoticons, smileys, split_hashtags
+    return raw, id, valence, users, pos_tags, emoticons, smileys, split_hashtags
 
 
 def get_raw_tweets(file_name):
@@ -79,8 +84,8 @@ def create_dataset(filename):
 
     for i in range(len(raw_tweets[0])):
         try:
-            raw, id, valence, users, emoticons, smileys, hashtags = extract(raw_tweets[i])
-            nt = Tweet(raw, id, valence, users, emoticons, smileys, hashtags)
+            raw, id, valence, users, pos_tags, emoticons, smileys, hashtags = extract(raw_tweets[i])
+            nt = Tweet(raw, id, valence, users, pos_tags, emoticons, smileys, hashtags)
             processed_tweets.append(nt)
         except:
             continue
