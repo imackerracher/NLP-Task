@@ -1,6 +1,11 @@
 import re
 from os.path import dirname, abspath
 import nltk
+from split_hashtags import HashTagSplitter
+from nltk.corpus import brown
+import pickle
+import os
+
 
 
 class Tweet:
@@ -25,7 +30,25 @@ with open(data_path + '/en/2018-Valence-oc-En-train.txt', 'r') as f:
     raw_tweets = raw_text.split('\n')
 
 
-#TODO part of speech tagging
+possible_words = list(set(brown.words()))
+
+def split(hashtag):
+    if hashtag.lower() not in possible_words:
+        tags = HashTagSplitter().split_hashtag_to_words_all_possibilities(hashtag)
+        valid_tag = []
+        for tag in tags:
+            valid = True
+            for word in tag:
+                if word not in possible_words:
+                    valid = False
+            if valid: valid_tag.append(tag)
+    else:
+        valid_tag = [hashtag]
+    try:
+        valid_tag = valid_tag[0]
+    except Exception as e:
+        print(e)
+    return valid_tag
 
 
 def extract(raw_tweet):
@@ -36,22 +59,38 @@ def extract(raw_tweet):
         raw = re.sub(r'(.)\1{3,}', r'\1\1', raw)
         id = raw_tweet.split('-')[4]
         #TODO valence as int number only
-        valence = re.search(r'(?<=valence\s).*', raw_tweet).group()
+        valence = re.search(r'(?<=valence\s).*', raw_tweet).group()[0]
         users = re.findall(r'(?<=@).*?(?=\s)', raw_tweet)
         emoticons = re.findall(u'[\U00010000-\U0010ffff]', raw_tweet)
         smileys = re.findall(r'[(),\.\'$|8´]*[:;]+[(),\.\'$|8´]+', raw_tweet)
         hashtags = re.findall(r'(?<=#).*?(?=\s)', raw_tweet)
+        split_hashtags = [split(hashtag) for hashtag in hashtags]
+        split_hashtags = [s for s in split_hashtags if len(s) > 0]
     except Exception as e:
+        print(e)
         return
-    return raw, id, valence, users, emoticons, smileys, hashtags
+    return raw, id, valence, users, emoticons, smileys, split_hashtags
+
+
 
 
 processed_tweets = []
-for i in range(len(raw_tweets)):
+for i in range(len(raw_tweets[0])):
     try:
         raw, id, valence, users, emoticons, smileys, hashtags = extract(raw_tweets[i])
-        nt = Tweet(raw, id, valence, users, emoticons, smileys, hashtags)
+        nt = Tweet(raw, id, valence, users, emoticons, smileys, hashtags)  #.__str__()
         processed_tweets.append(nt)
     except:
         continue
+
+pickled_tweets = pickle.dumps(processed_tweets)
+
+with open(os.getcwd() + '/tweets', 'wb') as f:
+    f.write(pickled_tweets)
+
+
+with open(os.getcwd() + '/tweets', 'rb') as f:
+    t = f.read()
+tweets = pickle.loads(t)
+
 
