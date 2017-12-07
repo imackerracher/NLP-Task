@@ -9,23 +9,6 @@ import pickle
 import os
 import multiprocessing
 import time
-
-
-class Tweet:
-    def __init__(self, raw, id, valence, users, pos_tags, emoticons, smileys, hashtags):
-        self.raw = raw
-        self.id = id
-        self.valence = valence
-        self.users = users
-        self.pos_tags = pos_tags
-        self.emoticons = emoticons
-        self.smileys = smileys
-        self.hashtags = hashtags
-
-    def __str__(self):
-        tweet_str = "Id: %s \nRaw: \"%s\"\nValence: %s\nUsers: %s\nEmoticons: %s\nSmileys: %s\nHashtags: %s" \
-                    % (self.id, self.raw, self.valence, self.users, self.emoticons, self.smileys, self.hashtags)
-        return tweet_str
 from .tweet import Tweet
 
 
@@ -65,7 +48,6 @@ def handle_hashtag(raw_tweet):
     return split_hashtags
 
 
-
 def extract(raw_tweet, dev=False):
     try:
         stopwords = nltk.corpus.stopwords.words('english')
@@ -82,7 +64,7 @@ def extract(raw_tweet, dev=False):
         else:
             id = raw_tweet.split('-')[4]
         valence_text = re.search(r'(?<=valence\s).*', raw_tweet).group()
-        if valence_text[0] in list(range(4)):
+        if valence_text[0] in '0123':
             valence = valence_text[0]
         else:
             valence = valence_text[:2]
