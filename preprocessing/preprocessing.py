@@ -9,7 +9,8 @@ import pickle
 import os
 import multiprocessing
 import time
-from .tweet import Tweet
+from tweet import Tweet
+import random
 
 
 
@@ -52,17 +53,10 @@ def extract(raw_tweet, dev=False):
     try:
         stopwords = nltk.corpus.stopwords.words('english')
         raw_tweet = ' '.join([w.lower() for w in raw_tweet.split() if w not in stopwords])
-        #if dev:
-        #    raw = re.search(r'(?<=\d{5}).*?(?=\svalence)', raw_tweet).group()
-        #else:
-        #    raw = re.search(r'(?<=\d{5} ).*?(?=\svalence)', raw_tweet).group()
-        raw = re.search(r'(?<= ).*?(?=\svalence)', raw_tweet).group()
+        raw = re.search(r'(?<=\d{5}\s).*?(?=\svalence)', raw_tweet).group()
         # elongated words
         raw = re.sub(r'(.)\1{3,}', r'\1\1', raw)
-        if dev:
-            id = re.search(r'\d+(?=\s)', raw_tweet).group()
-        else:
-            id = raw_tweet.split('-')[4]
+        id = re.search(r'(?<=-)\d{5}(?=\s)', raw_tweet).group()
         valence_text = re.search(r'(?<=valence\s).*', raw_tweet).group()
         if valence_text[0] in '0123':
             valence = valence_text[0]
@@ -153,6 +147,4 @@ if __name__ == "__main__":
 
     pickle.dump(train_set, open("train_set", "wb"))
     pickle.dump(test_set, open("test_set", "wb"))
-
-
 
