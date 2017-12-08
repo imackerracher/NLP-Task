@@ -3,13 +3,13 @@ from os.path import dirname, abspath
 import nltk
 # if running from a different file use this import
 # from .split_hashtags import HashTagSplitter
-from split_hashtags import HashTagSplitter
+from .split_hashtags import HashTagSplitter
 from nltk.corpus import brown
 import pickle
 import os
 import multiprocessing
 import time
-from tweet import Tweet
+from .tweet import Tweet
 import random
 
 
