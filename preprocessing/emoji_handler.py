@@ -1,4 +1,4 @@
-import os
+from os.path import dirname, abspath
 import re
 
 
@@ -9,7 +9,7 @@ class EmojiHandler:
         self.path = path
 
     def get_emoji_file(self):
-        data_path = os.getcwd() + '/'
+        data_path = dirname(dirname(abspath(__file__))) + '/data/lexicons/'
 
         with open(data_path + self.path, 'r') as f:
             raw_text = f.read()
