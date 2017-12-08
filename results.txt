@@ -1,3 +1,5 @@
+Fucked this file up at some point. Will add missing values as soon as training is ready
+
 Baseline
 Accuracy: 0.224944320713
 Accuracy for small interval: 0.445434298441
@@ -42,11 +44,33 @@ Accuracy for small interval: 0.41425389755
 Accuracy for right direction: 0.227171492205
 
 k: 50
-Accuracy: 0.20267260579
 Accuracy: 0.200445434298
 Accuracy for small interval: 0.432071269488
 Accuracy for right direction: 0.398663697105
 
+k: 100
+Accuracy: 0.21
+Accuracy for small interval: 0.445
+Accuracy for right direction: 0.235 
+
+k: 200
+Accuracy: 0.195
+Accuracy for small interval: 0.44
+Accuracy for right direction: 0.27 
+
+k: 500
+Accuracy: 0.195
+Accuracy for small interval: 0.425
+Accuracy for right direction: 0.28 
+
+k: 1000
+Accuracy: 0.22
+Accuracy for small interval: 0.47
+Accuracy for right direction: 0.32 
+
+k: 5000
+Accuracy: 0.22
+Accuracy for small interval: 0.47
+Accuracy for right direction: 0.345 
+
 Class specific eval
-different classifier (naive bayes)
-svm right?
