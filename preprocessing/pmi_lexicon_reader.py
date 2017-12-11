@@ -46,13 +46,14 @@ class PMILexiconReader:
 
     def create_dict(self):
         word_emotion_dictionary = {}
-        for line in self.get_lexicon_file()[:10]:
+        for line in self.get_lexicon_file():
             try:
                 word, emotion = self.split_line(line)
                 word_emotion_dictionary[word] = emotion
                 #print(line)
             except Exception as e:
-                print(e)
+                #print(e)
+                continue
 
 
         return word_emotion_dictionary
@@ -62,6 +63,6 @@ class PMILexiconReader:
 #Usage:
 #lexicon = PMILexiconReader('unigrams-pmilexicon.txt').create_dict()
 #lexicon = PMILexiconReader('bigrams-pmilexicon.txt', type='bi').create_dict()
-lexicon = PMILexiconReader('pairs-pmilexicon.txt', type='pair').create_dict()
-for k in lexicon:
-    print(k, lexicon[k])
+#lexicon = PMILexiconReader('pairs-pmilexicon.txt', type='pair').create_dict()
+#for k in lexicon:
+#    print(k, lexicon[k])

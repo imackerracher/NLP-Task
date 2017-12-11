@@ -3,14 +3,37 @@ from os.path import dirname, abspath
 import nltk
 # if running from a different file use this import
 # from .split_hashtags import HashTagSplitter
-from .split_hashtags import HashTagSplitter
+from split_hashtags import HashTagSplitter
 from nltk.corpus import brown
 import pickle
 import os
 import multiprocessing
 import time
-from .tweet import Tweet
+#from .tweet import Tweet
+from tweet import Tweet
+#from .emoji_handler import EmojiHandler
+from emoji_handler import EmojiHandler
+#from .pmi_lexicon_reader import PMILexiconReader
+from pmi_lexicon_reader import PMILexiconReader
 import random
+
+
+def emoji_valence_replace(emojis):
+
+    emoji_dict = EmojiHandler('emoji_data.txt').create_dict()
+    uni_lexicon = PMILexiconReader('unigrams-pmilexicon.txt').create_dict()
+    #bi_lexicon = PMILexiconReader('bigrams-pmilexicon.txt').create_dict()
+    #pairs_lexicon = PMILexiconReader('pairs-pmilexicon.txt').create_dict()
+
+    valences = []
+    if len(emojis) > 0:
+        for emoticon in emojis:
+            emoticon_code = 'U+{:X}'.format(ord(emoticon))
+            #print(emoticon_code)
+            if emoticon_code in emoji_dict:
+                valences = [uni_lexicon[word] for word in emoji_dict[emoticon_code] if word in uni_lexicon]
+
+    return valences
 
 
 
@@ -29,7 +52,6 @@ def split(hashtag):
             if valid: return tag
         valid_tag = [hashtag]
     return valid_tag
-
 
 
 def handle_hashtag(raw_tweet):
@@ -66,6 +88,7 @@ def extract(raw_tweet, dev=False):
         tokens = nltk.pos_tag([token.lower() for token in re.findall(r'[A-Za-z]+', raw)])
         pos_tags = [tup[1] for tup in tokens]
         emoticons = re.findall(u'[\U00010000-\U0010ffff]', raw_tweet)
+        emoticon_valences = emoji_valence_replace(emoticons)
         smileys = re.findall(r'[(),\.\'$|8´]*[:;]+[(),\.\'$|8´]+', raw_tweet)
         hashtags = handle_hashtag(raw_tweet)
     except Exception as e:
@@ -74,7 +97,7 @@ def extract(raw_tweet, dev=False):
         print(raw_tweet)
         print()
         return
-    return raw, id, valence, users, pos_tags, emoticons, smileys, hashtags
+    return raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags
 
 
 def get_raw_tweets(file_name):
@@ -93,8 +116,8 @@ def create_dataset(filename, dev=False):
 
     for i in range(len(raw_tweets)):
         try:
-            raw, id, valence, users, pos_tags, emoticons, smileys, hashtags = extract(raw_tweets[i], dev)
-            nt = Tweet(raw, id, valence, users, pos_tags, emoticons, smileys, hashtags)
+            raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags = extract(raw_tweets[i], dev)
+            nt = Tweet(raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags)
             processed_tweets.append(nt)
         except:
             continue
@@ -141,10 +164,15 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     train_set = create_dataset('/en/2018-Valence-oc-En-train.txt')
-    print(len(train_set))
-    print("Done")
+    #print(len(train_set))
+    #print("Done")
     test_set = create_dataset('/en/2018-Valence-oc-En-dev.txt', dev=True)
 
     pickle.dump(train_set, open("train_set", "wb"))
     pickle.dump(test_set, open("test_set", "wb"))
+
+
+
+
+
 

@@ -27,7 +27,7 @@ class EmojiHandler:
         def generate(start, end):
             start = int(start, 16)
             end = int(end, 16)
-            unicodes = ['U+'+ re.sub('0x', '', str(hex(i))) for i in range(start, end+1)]
+            unicodes = ['U+'+ re.sub('0x', '', str(hex(i))).upper() for i in range(start, end+1)]
             return unicodes
 
         emoji_dict = {}
@@ -43,10 +43,11 @@ class EmojiHandler:
                 for tmp in total_unicodes:
                     emoji_dict[tmp] = words
             except Exception as e:
-                print(e)
+                #print(e)
+                continue
         return emoji_dict
 
 
-emoji_dict = EmojiHandler('emoji_data.txt').create_dict()
-for k in emoji_dict:
-    print(k, emoji_dict[k])
+#emoji_dict = EmojiHandler('emoji_data.txt').create_dict()
+#for k in emoji_dict:
+#    print(k, emoji_dict[k])
