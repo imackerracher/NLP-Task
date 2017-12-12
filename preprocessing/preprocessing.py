@@ -18,6 +18,23 @@ from pmi_lexicon_reader import PMILexiconReader
 import random
 
 
+def token_valence_replace(tokens):
+    uni_lexicon = PMILexiconReader('unigrams-pmilexicon.txt').create_dict()
+    # bi_lexicon = PMILexiconReader('bigrams-pmilexicon.txt').create_dict()
+    # pairs_lexicon = PMILexiconReader('pairs-pmilexicon.txt').create_dict()
+    valences = [uni_lexicon[token] for token in tokens if token in uni_lexicon]
+    return valences
+
+def hashtag_valence_replace(hashtags):
+    uni_lexicon = PMILexiconReader('unigrams-pmilexicon.txt').create_dict()
+    #bi_lexicon = PMILexiconReader('bigrams-pmilexicon.txt').create_dict()
+    #pairs_lexicon = PMILexiconReader('pairs-pmilexicon.txt').create_dict()
+
+    valences = []
+    for hashtag in hashtags:
+        valences = [uni_lexicon[word] for word in hashtag if word in uni_lexicon]
+    return valences
+
 def emoji_valence_replace(emojis):
 
     emoji_dict = EmojiHandler('emoji_data.txt').create_dict()
@@ -91,13 +108,15 @@ def extract(raw_tweet, dev=False):
         emoticon_valences = emoji_valence_replace(emoticons)
         smileys = re.findall(r'[(),\.\'$|8´]*[:;]+[(),\.\'$|8´]+', raw_tweet)
         hashtags = handle_hashtag(raw_tweet)
+        hashtag_valence = hashtag_valence_replace(hashtags)
+        tokens_valence = token_valence_replace(nltk.word_tokenize(raw))
     except Exception as e:
         print('EXTRACT')
         print(e)
         print(raw_tweet)
         print()
         return
-    return raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags
+    return raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags, hashtag_valence, tokens_valence
 
 
 def get_raw_tweets(file_name):
@@ -116,8 +135,8 @@ def create_dataset(filename, dev=False):
 
     for i in range(len(raw_tweets)):
         try:
-            raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags = extract(raw_tweets[i], dev)
-            nt = Tweet(raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags)
+            raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags, hashtags_valence, tokens_valence = extract(raw_tweets[i], dev)
+            nt = Tweet(raw, id, valence, users, pos_tags, emoticons, emoticon_valences, smileys, hashtags, hashtags_valence, tokens_valence)
             processed_tweets.append(nt)
         except:
             continue
@@ -163,13 +182,21 @@ if __name__ == "__main__":
     print('\n\n\nTIME TAKEN: ', end - start)"""
 
 if __name__ == "__main__":
-    train_set = create_dataset('/en/2018-Valence-oc-En-train.txt')
+    #train_set = create_dataset('/en/2018-Valence-oc-En-train.txt')
     #print(len(train_set))
     #print("Done")
-    test_set = create_dataset('/en/2018-Valence-oc-En-dev.txt', dev=True)
+    #test_set = create_dataset('/en/2018-Valence-oc-En-dev.txt', dev=True)
 
-    pickle.dump(train_set, open("train_set", "wb"))
-    pickle.dump(test_set, open("test_set", "wb"))
+    #pickle.dump(train_set, open("train_set", "wb"))
+    #pickle.dump(test_set, open("test_set", "wb"))
+
+    with open('train_set', 'rb') as f:
+        file = f.read()
+
+    train_set = pickle.loads(file)
+
+    for i in train_set:
+        print(i)
 
 
 
